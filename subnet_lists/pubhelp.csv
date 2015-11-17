@@ -1,0 +1,43 @@
+Public,Balgreen Library[80],PUB,public,unknown,:10.17.1.0:
+Public,Corstorphine Library[80],PUB,public,unknown,:10.17.2.0:
+Public,Kirkliston Library[80],PUB,public,unknown,:10.17.3.0:
+Public,Ratho Library[80],PUB,public,unknown,:10.17.4.0:
+Public,Balerno Library[80],PUB,public,unknown,:10.17.5.0:
+Public,Currie Library[80],PUB,public,unknown,:10.17.6.0:
+Public,Sighthill Library[80],PUB,public,unknown,:10.17.7.0:
+Public,WesterHailes Library[80],PUB,public,unknown,:10.17.8.0:
+Public,Drumbrae Library [80],PUB,public,unknown,:10.17.9.0:
+Public,TRAM Depot Gogarburn - 1548,PUB,public,unknown,:10.17.10.0:
+Public,Westfield House,PUB,public,unknown,:10.17.11.0:
+Public,Colinton Library[80],PUB,public,unknown,:10.18.1.0:
+Public,Oxgangs Library[80],PUB,public,unknown,:10.18.2.0:
+Public,Moredun Library,PUB,public,unknown,:10.18.3.0:
+Public,Gilmerton Library[80],PUB,public,unknown,:10.18.4.0:
+Public,Morningside Library[80],PUB,public,unknown,:10.18.5.0:
+Public,South Local Office [80],PUB,public,unknown,:10.18.6.0:
+Public,Mortonhall Crematorium,PUB,public,unknown,:10.18.7.0:
+Public,Muirhouse Library[80],PUB,public,unknown,:10.19.1.0:
+Public,Blackhall Library [80],PUB,public,unknown,:10.19.2.0:
+Public,South Queensferry Library[80],PUB,public,unknown,:10.19.3.0:
+Public,Stockbridge Library [80],PUB,public,unknown,:10.19.4.0:
+Public,Fountainbridge Library[80],PUB,public,unknown,:10.19.5.0:
+Public,Newington Library [80],PUB,public,unknown,:10.19.6.0:
+Public,AtriaOne,PUB,public,unknown,:10.19.7.0:
+Public,Craigmillar Library[80] (Closed),PUB,public,unknown,:10.20.1.0:
+Public,Piershill Library[80],PUB,public,unknown,:10.20.2.0:
+Public,Portobello Library [80],PUB,public,unknown,:10.20.3.0:
+Public,Leith Library [80],PUB,public,unknown,:10.20.4.0:
+Public,Granton Library[80],PUB,public,unknown,:10.20.5.0:
+Public,MacDonald Road Library [80],PUB,public,unknown,:10.20.6.0:
+Public,ENOLC (50),PUB,public,unknown,:10.20.7.0:
+Public,Fort Shared Services,PUB,public,unknown,:10.20.8.0:
+Public,AGB Public Vlan,PUB,public,unknown,:10.23.90.16:
+Public,BTS Public Vlan,PUB,public,unknown,:10.23.90.32:
+Public,City Chambers User-1 VLAN,PUB,public,unknown,:10.23.160.0:
+Public,City Chambers WiFi-1 VLAN,PUB,public,unknown,:10.23.164.0:
+Public,Assembley Rooms [80],PUB,public,unknown,:10.23.176.0:
+Public,Central Library[80],PUB,public,unknown,:10.23.180.0:
+Public,Edinburgh Bus Station - 1430,PUB,public,unknown,:10.23.184.0:
+Public,Lothian Chambers,PUB,public,unknown,:10.23.188.0:
+Public,Parliament Square,PUB,public,unknown,:10.23.192.0:
+Public,Waverley Court User-1 VLAN,PUB,public,unknown,:10.23.224.0:

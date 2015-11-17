@@ -1,0 +1,6 @@
+Corporate,City Chambers Vlan 1(Management),CORP,city,unknown,:10.189.4.0:
+Corporate,City Chambers Vlan 3(Corporate),CORP,city,unknown,:10.189.8.0:
+Corporate,City Chambers Vlan 4(City Dev),CORP,city,unknown,:10.189.12.0:
+Corporate,City Chambers Vlan 7(GIS),CORP,city,unknown,:10.189.24.0:
+Corporate,City Chambers Vlan 9 (Licensing),CORP,city,unknown,:10.189.32.0:
+

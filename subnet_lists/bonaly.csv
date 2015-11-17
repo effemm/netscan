@@ -1,0 +1,18 @@
+Hello World
+school,prefix,ip,model,sysname,location,MAC,serial
+Using goldhelp.csv
+======= Bonaly Primary School
+Trying telnet on 10.209.12.70
+Bonaly Primary School,BONA,10.209.12.70,GS724T,Unknown,Unknown,Unknown,Unknown
+Trying telnet on 10.209.12.71
+Bonaly Primary School,BONA,10.209.12.71,FS750T2, Bonaly_Cab_B_02, Ground Floor Comms, 00-1e-2a-3f-f6-32,Unknown
+Trying telnet on 10.209.12.72
+Bonaly Primary School,BONA,10.209.12.72,FS750T2, Bonaly_Cab_B_03, Ground Floor Comms, 00-1e-2a-3f-f6-31,Unknown
+Trying telnet on 10.209.12.73
+Bonaly Primary School,BONA,10.209.12.73,FS750T2, Bonaly_Cab_B_04, Ground Floor Comms, 00-1b-2f-c2-e2-bb,Unknown
+Trying telnet on 10.209.12.74
+Bonaly Primary School,BONA,10.209.12.74,FS750T2, Bonaly_Cab_A_01, Upstairs Comms Room, 00-1e-2a-ab-29-3d,Unknown
+Trying telnet on 10.209.12.75
+Bonaly Primary School,BONA,10.209.12.75,FS750T2, Bonaly_Cab_A_02, Upstairs Comms Room, 00-1e-2a-48-c5-20,Unknown
+Trying telnet on 10.209.12.76
+Bonaly Primary School,BONA,10.209.12.76,FS750T2, Bonaly_Cab_A_03, Upstairs Comms Room, 00-1e-2a-48-c5-1f,Unknown

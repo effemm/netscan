@@ -1,0 +1,208 @@
+Corporate,10 Chester Street Children and Families,CORP,chester,unknown,:10.189.100.0:
+Corporate,10-14 Manor Place,CORP,manor,unknown,:10.189.132.0:
+Corporate,10-14 Manor Place,CORP,manor,unknown,:10.189.135.0:
+Corporate,63 Niddrie Mains Terrace,CORP,niddrie,unknown,:10.162.40.0:
+Corporate,63 Niddrie Mains Terrace,CORP,niddrie,unknown,:10.162.42.0:
+Corporate,Advice Shop,CORP,advice,unknown,:10.189.92.0:
+Corporate,Assembley Rooms Corporate,CORP,assembley,unknown,:10.189.140.0:
+Corporate,ATRIA ONE - 1547 - Data Vlan,CORP,atria,unknown,:10.155.12.0:
+Corporate,ATRIA ONE - 1547 - Voice Vlan,CORP,atria,unknown,:10.155.15.0:
+Corporate,Baileyfield Direct Service Organisation,CORP,baileyfield,unknown,:10.162.8.0:
+Corporate,Bangholm Sports Centre,CORP,bangholm,unknown,:10.164.32.0:
+Corporate,Bankhead Avenue (POP - BHA) Edinburgh Road Services,CORP,bankhead,unknown,:10.139.32.0:
+Corporate,Barnton Depot,CORP,barnton,unknown,:10.154.36.0:
+Corporate,Bingham Way Homeless Accomodation,CORP,bingham,unknown,:10.162.24.0:
+Corporate,Blackford Depot,CORP,blackford,unknown,:10.147.64.0:
+Corporate,Blackfriars Street,CORP,blackfriars,unknown,:10.189.108.0:
+Corporate,Blackhall Library,CORP,blackhall,unknown,:10.154.8.0:
+Corporate,"Bonnington ATC, 200 Bonnington Rd",CORP,bonnington,unknown,:10.163.48.0:
+Corporate,"Bonnington ATC, 200 Bonnington Rd",CORP,bonnington,unknown,:10.163.51.0:
+Corporate,BT Alexander Graham Bell House CEC Corporate VLAN 11,CORP,bt,unknown,:10.101.4.0:
+Corporate,BT Alexander Graham Bell House CEC Management VLAN 16,CORP,bt,unknown,:10.101.16.0:
+Corporate,BT Sighthill CEC Corporate VLAN,CORP,bt,unknown,:10.102.4.0:
+Corporate,BT Sighthill Management VLAN,CORP,bt,unknown,:10.102.16.0:
+Corporate,Capital Exchange C-VD-CLIENT1,CORP,capital,unknown,:10.105.16.0:
+Corporate,Capital Exchange C-VD-CLIENT2,CORP,capital,unknown,:10.105.20.0:
+Corporate,Capital Exchange C-VD-CLIENT3,CORP,capital,unknown,:10.105.24.0:
+Corporate,Capital Exchange C-VD-CLIENT4,CORP,capital,unknown,:10.105.28.0:
+Corporate,Capital Skills,CORP,capital,unknown,:10.161.20.0:
+Corporate,Capito Livingston (POP  - CLL),CORP,capito,unknown,:172.18.97.0:
+Corporate,CaslteCliff,CORP,casltecliff,unknown,:10.189.76.0:
+Corporate,"CEC Services for Communities, 13 Newtoft St",CORP,cec,unknown,:10.147.52.0:
+Corporate,Chesser Vlan 1(Management),CORP,chesser,unknown,:10.187.1.0:
+Corporate,Chesser Vlan 2(Contact Centre),CORP,chesser,unknown,:10.187.2.0:
+Corporate,Chesser Vlan 3(BDS),CORP,chesser,unknown,:10.187.4.0:
+Corporate,Chesser Vlan 6(Corporate),CORP,chesser,unknown,:10.187.16.0:
+Corporate,Chesser House Server VLAN,CORP,chesser,unknown,:10.187.30.0:
+Corporate,Chesser(NPC),CORP,chesser(npc),unknown,:10.187.8.0:
+Corporate,City Chambers Vlan 1(Management),CORP,city,unknown,:10.189.4.0:
+Corporate,City Chambers Vlan 3(Corporate),CORP,city,unknown,:10.189.8.0:
+Corporate,City Chambers Vlan 4(City Dev),CORP,city,unknown,:10.189.12.0:
+Corporate,City Chambers Vlan 7(GIS),CORP,city,unknown,:10.189.24.0:
+Corporate,City Chambers Vlan 9 (Licensing),CORP,city,unknown,:10.189.32.0:
+Corporate,City Chambers Vlan 13 (Services for communities) 1 Cockburn Street,CORP,city,unknown,:10.189.44.0:
+Corporate,City Arts Centre,CORP,city,unknown,:10.189.84.0:
+Corporate,"Claremont House, Registration & Inspection Services",CORP,claremont,unknown,:10.190.4.0:
+Corporate,Clermiston House,CORP,clermiston,unknown,:10.154.28.0:
+Corporate,Clovenstone House,CORP,clovenstone,unknown,:10.139.56.0:
+Corporate,CORP TEST MAN MIGRATION,CORP,corp,unknown,:10.146.16.0:
+Corporate,Cowans Close,CORP,cowans,unknown,:10.156.12.0:
+Corporate,Cowgate Clinic,CORP,cowgate,unknown,:10.189.80.0:
+Corporate,Craighall Day Centre Granton,CORP,craighall,unknown,:10.164.20.0:
+Corporate,Craigmillar Childrens Centre Liberton,CORP,craigmillar,unknown,:10.147.24.0:
+Corporate,Crane Services,CORP,crane,unknown,:10.190.32.0:
+Corporate,Crimal Justice,CORP,crimal,unknown,:10.189.28.0:
+Corporate,Deanbank,CORP,deanbank,unknown,:10.148.16.0:
+Corporate,District Court,CORP,district,unknown,:10.189.72.0:
+Corporate,Drumbrae Data VLAN,CORP,drumbrae,unknown,:10.154.32.0:
+Corporate,Drumbrae Voice VLAN,CORP,drumbrae,unknown,:10.154.35.0:
+Corporate,Drumbrae Care Home,CORP,drumbrae,unknown,:10.154.44.0:
+Corporate,Drylaw YPC Dean,CORP,drylaw,unknown,:10.153.20.0:
+Corporate,Duddingston (POP - DUD),CORP,duddingston,unknown,:10.161.36.0:
+Corporate,Duddingston_Voice,CORP,duddingston_voice,unknown,:10.161.38.0:
+Corporate,Dumbiedykes Road,CORP,dumbiedykes,unknown,:10.190.12.0:
+Corporate,Edinburgh Family Support Centre Liberton,CORP,edinburgh,unknown,:10.147.20.0:
+Corporate,Edinburgh Family Project (ex-Ferniehill YPC) Liberton,CORP,edinburgh,unknown,:10.147.36.0:
+Corporate,Emergancy Planning,CORP,emergancy,unknown,:10.189.20.0:
+Corporate,Ferrylee Residental Care Home,CORP,ferrylee,unknown,:10.163.36.0:
+Corporate,Firhill Respite Unit [50],CORP,firhill,unknown,:10.145.8.0:
+Corporate,Firrhill Day Centre,CORP,firrhill,unknown,:10.145.12.0:
+Corporate,Fords Road,CORP,fords,unknown,:10.139.60.0:
+Corporate,Fort Shared Services - Data (Site ID 0077),CORP,fort,unknown,:10.163.56.0:
+Corporate,Fort Shared Services - Voice (Site ID 0077),CORP,fort,unknown,:10.163.58.0:
+Corporate,Gilmerton EYC Liberton,CORP,gilmerton,unknown,:10.147.28.0:
+Corporate,Glenallan,CORP,glenallan,unknown,:10.147.56.0:
+Corporate,Granton Early Years Centre,CORP,granton,unknown,:10.164.16.0:
+Corporate,Greendykes Childrens Centre,CORP,greendykes,unknown,:10.147.32.0:
+Corporate,Greendykes YPC Liberton,CORP,greendykes,unknown,:10.147.40.0:
+Corporate,Grindlay Court data LAN,CORP,grindlay,unknown,:10.186.49.0:
+Corporate,Grindlay Court Voice LAN,CORP,grindlay,unknown,:10.186.50.0:
+Corporate,H&SC Equipment Stores - Prestonfield Park,CORP,h&sc,unknown,:10.161.25.0:
+Corporate,H&SC Equipment Stores - Prestonfield Park,CORP,h&sc,unknown,:10.161.26.0:
+Corporate,Hailesland Child and Family Centre,CORP,hailesland,unknown,:10.139.44.0:
+Corporate,Hawkhill Site (ID 200),CORP,hawkhill,unknown,:10.163.20.0:
+Corporate,Hermitage of Braid,CORP,hermitage,unknown,:10.148.20.0:
+Corporate,Hermitage of Braid Voice,CORP,hermitage,unknown,:10.148.22.0:
+Corporate,Hill Street,CORP,hill,unknown,:10.190.16.0:
+Corporate,Holyrood Court,CORP,holyrood,unknown,:10.190.36.0:
+Corporate,InverLeith Workshop,CORP,inverleith,unknown,:10.163.52.0:
+Corporate,Jewel House Residential Centre,CORP,jewel,unknown,:10.162.36.0:
+Corporate,Kings Inch Home for older people,CORP,kings,unknown,:10.147.60.0:
+Corporate,Kings Stables Road,CORP,kings,unknown,:10.189.36.0:
+Corporate,Lauriston Castle,CORP,lauriston,unknown,:10.154.40.0:
+Corporate,Leith Street,CORP,leith,unknown,:10.186.45.0:
+Corporate,Leith Street Voice VLAN,CORP,leith,unknown,:10.186.46.0:
+Corporate,Lib_Balerno Library,CORP,lib_balerno,unknown,:10.139.12.0:
+Corporate,Lib_Balgreen Library,CORP,lib_balgreen,unknown,:10.137.16.0:
+Corporate,Lib_Central Library VLAN 10 (Corp),CORP,lib_central,unknown,:10.186.10.0:
+Corporate,Lib_Colinton Library,CORP,lib_colinton,unknown,:10.145.4.0:
+Corporate,Lib_Corstorphine Library,CORP,lib_corstorphine,unknown,:10.138.12.0:
+Corporate,Lib_Currie Library,CORP,lib_currie,unknown,:10.139.16.0:
+Corporate,Lib_Fountainbridge Library,CORP,lib_fountainbridge,unknown,:10.155.4.0:
+Corporate,Lib_Gilmerton Library,CORP,lib_gilmerton,unknown,:10.147.12.0:
+Corporate,Lib_Granton Library LAN2,CORP,lib_granton,unknown,:10.164.12.0:
+Corporate,Lib_Kirkliston Library,CORP,lib_kirkliston,unknown,:10.138.16.0:
+Corporate,Lib_Leith Library,CORP,lib_leith,unknown,:10.163.12.0:
+Corporate,Lib_McDonald Rd Library,CORP,lib_mcdonald,unknown,:10.190.24.0:
+Corporate,Lib_Moredun Library,CORP,lib_moredun,unknown,:10.147.8.0:
+Corporate,Lib_Morningside Library,CORP,lib_morningside,unknown,:10.148.4.0:
+Corporate,Lib_Muirhouse Library,CORP,lib_muirhouse,unknown,:10.153.8.0:
+Corporate,Lib_Newington Library,CORP,lib_newington,unknown,:10.156.4.0:
+Corporate,Lib_Oxgangs Library,CORP,lib_oxgangs,unknown,:10.146.8.0:
+Corporate,Lib_Piershill Library,CORP,lib_piershill,unknown,:10.162.16.0:
+Corporate,Lib_Portobello Library,CORP,lib_portobello,unknown,:10.162.20.0:
+Corporate,Lib_Ratho Library,CORP,lib_ratho,unknown,:10.138.20.0:
+Corporate,Lib_South Queensferry Library,CORP,lib_south,unknown,:10.154.12.0:
+Corporate,Lib_Stockbridge Library,CORP,lib_stockbridge,unknown,:10.154.16.0:
+Corporate,Lib_Wester Hailes Library,CORP,lib_wester,unknown,:10.139.24.0:
+Corporate,Local Area Co-ordination Team,CORP,local,unknown,:10.189.124.0:
+Corporate,Local_East Local Office (POP - ELO),CORP,local_east,unknown,:10.161.40.0:
+Corporate,Local_East Local Office Voice,CORP,local_east,unknown,:10.161.42.0:
+Corporate,Local_North Local Office (POP- NLO) West Pilton Gardens,CORP,local_north,unknown,:10.153.2.0:
+Corporate,Local_South Local Office (POP -SLO),CORP,local_south,unknown,:10.147.2.0:
+Corporate,Local_South Local Office (POP -SLO) - Data Vlan 30,CORP,local_south,unknown,:10.147.4.0:
+Corporate,Local_South Local Office - VOIP Vlan 730,CORP,local_south,unknown,:10.147.6.0:
+Corporate,Local_West Edinburgh Office (POP - WLO),CORP,local_west,unknown,:10.139.2.0:
+Corporate,Longstone,CORP,longstone,unknown,:10.139.52.0:
+Corporate,Lothian Chambers data LAN,CORP,lothian,unknown,:10.186.53.0:
+Corporate,Lothian Chambers_voice LAN,CORP,lothian,unknown,:10.186.54.0:
+Corporate,Lothian Bus Depot,CORP,lothian,unknown,:10.190.40.0:
+Corporate,Marionville Court,CORP,marionville,unknown,:10.163.32.0:
+Corporate,Moredun YPC Liberton,CORP,moredun,unknown,:10.147.44.0:
+Corporate,Morton Fraser Solicitors,CORP,morton,unknown,:10.189.136.0:
+Corporate,Mortonhall Crematorium,CORP,mortonhall,unknown,:10.147.16.0:
+Corporate,Murrayburn Road - Building Services (POP - MYR),CORP,murrayburn,unknown,:10.186.16.0:
+Corporate,Museum of Edinburgh,CORP,museum,unknown,:10.189.144.0:
+Corporate,Museum of Childhood,CORP,museum,unknown,:10.189.148.0:
+Corporate,Museum - Writers Museum,CORP,museum,unknown,:10.189.152.0:
+Corporate,Museum Collection Office,CORP,museum,unknown,:10.189.156.0:
+Corporate,North Merchiston Day Care,CORP,north,unknown,:10.137.24.0:
+Corporate,Northfield YPC Portobello,CORP,northfield,unknown,:10.162.32.0:
+Corporate,Oaklands,CORP,oaklands,unknown,:10.148.12.0:
+Corporate,Old Royal High School,CORP,old,unknown,:10.190.28.0:
+Corporate,Oxgangs YPC Fairmilehead,CORP,oxgangs,unknown,:10.146.20.0:
+Corporate,Parkview,CORP,parkview,unknown,:10.156.8.0:
+Corporate,Parliament Square Data Vlan 20,CORP,parliament,unknown,:10.189.160.0:
+Corporate,Parliament Square Voice Vlan 720,CORP,parliament,unknown,:10.189.162.0:
+Corporate,Pefferbank Adult Learning,CORP,pefferbank,unknown,:10.161.16.0:
+Corporate,Pennywell SWC,CORP,pennywell,unknown,:10.153.12.0:
+Corporate,Pennywell SWC,CORP,pennywell,unknown,:10.153.15.0:
+Corporate,Pentland View CSU Fairmilehead,CORP,pentland,unknown,:10.146.24.0:
+Corporate,Porthaven,CORP,porthaven,unknown,:10.163.40.0:
+Corporate,Powderhall,CORP,powderhall,unknown,:10.190.8.0:
+Corporate,Queen Street,CORP,queen,unknown,:10.189.104.0:
+Corporate,Queensferry Childrens Centre South Queensferry,CORP,queensferry,unknown,:10.157.20.0:
+Corporate,Randolph Crescent,CORP,randolph,unknown,:10.189.68.0:
+Corporate,Ravenglass,CORP,ravenglass,unknown,:10.145.16.0:
+Corporate,Risk Factory,CORP,risk,unknown,:10.140.4.0:
+Corporate,Royston Day Centre (Granton DCC),CORP,royston,unknown,:10.164.28.0:
+Corporate,Russell Road,CORP,russell,unknown,:10.137.12.0:
+Corporate,Scott & Co,CORP,scott,unknown,:10.189.112.0:
+Corporate,Seafield Scientific Services,CORP,seafield,unknown,:10.163.24.0:
+Corporate,Seaview Respite Centre,CORP,seaview,unknown,:10.162.44.0:
+Corporate,Secure Client VPN Users (VPN),CORP,secure,unknown,:172.19.32.0:
+Corporate,Sheriff Court,CORP,sheriff,unknown,:10.189.120.0:
+Corporate,Sighthill Child and Family Centre,CORP,sighthill,unknown,:10.139.40.0:
+Corporate,Silverlea Care Home,CORP,silverlea,unknown,:10.154.24.0:
+Corporate,South Gyle Respite Unit,CORP,south,unknown,:10.138.28.0:
+Corporate,South Queensferry Local Office,CORP,south,unknown,:10.154.4.0:
+Corporate,South Bridge Resource Centre,CORP,south,unknown,:10.189.116.0:
+Corporate,Southhouse YPC Liberton,CORP,southhouse,unknown,:10.147.48.0:
+Corporate,St Andrews Square,CORP,st,unknown,:10.190.20.0:
+Corporate,Stanley Street,CORP,stanley,unknown,:10.162.4.0:
+Corporate,Stenhouse C&F Centre Craiglockhart,CORP,stenhouse,unknown,:10.138.24.0:
+Corporate,SWC_Alva Street,CORP,swc_alva,unknown,:10.189.88.0:
+Corporate,SWC_Craigentinny Social Work Centre (POP - CGY) - May be closing,CORP,swc_craigentinny,unknown,:10.161.4.0:
+Corporate,SWC_Muirhouse Crescent (POP - MUC) 34 Muirhouse Crescent,CORP,swc_muirhouse,unknown,:10.153.4.0:
+Corporate,SWC_Muirhouse Voice,CORP,swc_muirhouse,unknown,:10.153.7.0:
+Corporate,SWC_NewKirkgate,CORP,swc_newkirkgate,unknown,:10.163.4.0:
+Corporate,SWC_Oxgangs Social Work,CORP,swc_oxgangs,unknown,:10.146.4.0:
+Corporate,SWC_St Johns House Social Work Centre (POP - SJH),CORP,swc_st,unknown,:10.163.8.0:
+Corporate,SWC_St John's House Voice Scope,CORP,swc_st,unknown,:10.163.10.0:
+Corporate,Tram Depot Gogarburn,CORP,tram,unknown,:10.138.36.0:
+Corporate,Tynecastle SAG,CORP,tynecastle,unknown,:10.137.28.0:
+Corporate,Usherhall C-0344,CORP,usherhall,unknown,:10.155.16.0:
+Corporate,Vega House,CORP,vega,unknown,:10.139.36.0:
+Corporate,Viewforth Child and Family Centre,CORP,viewforth,unknown,:10.148.8.0:
+Corporate,Voice Scope for Westfield House,CORP,voice,unknown,:10.138.6.0:
+Corporate,Waverley Court SFCOMM_data,CORP,waverley,unknown,:10.191.32.0:
+Corporate,Waverley Court CITYDEV_data,CORP,waverley,unknown,:10.191.36.0:
+Corporate,Waverley Court CHILDFAM_data,CORP,waverley,unknown,:10.191.40.0:
+Corporate,Waverley Court HEALTHSOC_data,CORP,waverley,unknown,:10.191.44.0:
+Corporate,Waverley Court COPRSVCS_data,CORP,waverley,unknown,:10.191.48.0:
+Corporate,Waverley Court FIN_data,CORP,waverley,unknown,:10.191.52.0:
+Corporate,Waverley Court SPARE1_data,CORP,waverley,unknown,:10.191.56.0:
+Corporate,Waverley Court SPARE2_data,CORP,waverley,unknown,:10.191.60.0:
+Corporate,Waverley Court SFCOMM_voice,CORP,waverley,unknown,:10.191.64.0:
+Corporate,Waverley Court CITYDEV_voice,CORP,waverley,unknown,:10.191.68.0:
+Corporate,Waverley Court CHILDFAM_voice,CORP,waverley,unknown,:10.191.72.0:
+Corporate,Waverley Court HEALTHSOC_voice,CORP,waverley,unknown,:10.191.76.0:
+Corporate,Waverley Court COPRSVCS_voice,CORP,waverley,unknown,:10.191.80.0:
+Corporate,Waverley Court FIN_voice,CORP,waverley,unknown,:10.191.84.0:
+Corporate,Waverley Court SPARE1_voice,CORP,waverley,unknown,:10.191.88.0:
+Corporate,Waverley Court SPARE2_voice,CORP,waverley,unknown,:10.191.92.0:
+Corporate,Westburn Primary School - site id 144,CORP,westburn,unknown,:10.139.64.0:
+Corporate,Westfield House Social Work,CORP,westfield,unknown,:10.138.4.0:
+Corporate,WHEC Corporate CUG,CORP,whec,unknown,:10.139.68.0:
+Corporate,WHEC - Corporate CUG - Voice,CORP,whec,unknown,:10.139.70.0:
+Corporate,Woods Centre,CORP,woods,unknown,:10.139.48.0:

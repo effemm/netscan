@@ -1,0 +1,144 @@
+Hello World
+school,prefix,ip,model,sysname,location,MAC,serial
+Using pubhelp.csv
+======= Balgreen Library[80]
+Trying telnet on 10.17.1.8
+Balgreen Library[80],PUB,10.17.1.8,Unknown,Unknown,Unknown,Unknown,Unknown
+======= Corstorphine Library[80]
+Trying telnet on 10.17.2.8
+It's a Cisco
+Corstorphine Library[80],PUB,10.17.2.8,WS-C2950-12,P-0353-SW-2950-01,Unknown,00:0A:B7:FD:F8:80,FOC0635Y291
+Trying telnet on 10.17.2.9
+It's a Cisco
+Corstorphine Library[80],PUB,10.17.2.9,WS-C2960-24PC-L,P-0353-SW-2960-01,Unknown,3C:CE:73:2A:D6:00,FCQ1606X19C
+======= Kirkliston Library[80]
+Trying telnet on 10.17.3.8
+Kirkliston Library[80],PUB,10.17.3.8,Unknown,Unknown,Unknown,Unknown,Unknown
+======= Ratho Library[80]
+Trying telnet on 10.17.4.8
+Ratho Library[80],PUB,10.17.4.8,Unknown,Unknown,Unknown,Unknown,Unknown
+======= Balerno Library[80]
+Trying telnet on 10.17.5.8
+Balerno Library[80],PUB,10.17.5.8,Unknown,Unknown,Unknown,Unknown,Unknown
+======= Currie Library[80]
+Trying telnet on 10.17.6.8
+Currie Library[80],PUB,10.17.6.8,Unknown,Unknown,Unknown,Unknown,Unknown
+======= Sighthill Library[80]
+Trying telnet on 10.17.7.8
+Sighthill Library[80],PUB,10.17.7.8,Unknown,Unknown,Unknown,Unknown,Unknown
+======= WesterHailes Library[80]
+Trying telnet on 10.17.8.8
+WesterHailes Library[80],PUB,10.17.8.8,Unknown,Unknown,Unknown,Unknown,Unknown
+======= Drumbrae Library [80]
+Trying telnet on 10.17.9.8
+Drumbrae Library [80],PUB,10.17.9.8,Unknown,Unknown,Unknown,Unknown,Unknown
+Trying telnet on 10.17.9.9
+Drumbrae Library [80],PUB,10.17.9.9,Unknown,Unknown,Unknown,Unknown,Unknown
+======= TRAM Depot Gogarburn - 1548
+Trying telnet on 10.17.10.8
+TRAM Depot Gogarburn - 1548,PUB,10.17.10.8,Unknown,Unknown,Unknown,Unknown,Unknown
+Trying telnet on 10.17.10.9
+TRAM Depot Gogarburn - 1548,PUB,10.17.10.9,Unknown,Unknown,Unknown,Unknown,Unknown
+======= Westfield House
+Trying telnet on 10.17.11.8
+Westfield House,PUB,10.17.11.8,Unknown,Unknown,Unknown,Unknown,Unknown
+======= Colinton Library[80]
+Trying telnet on 10.18.1.8
+Colinton Library[80],PUB,10.18.1.8,Unknown,Unknown,Unknown,Unknown,Unknown
+======= Oxgangs Library[80]
+Trying telnet on 10.18.2.8
+Oxgangs Library[80],PUB,10.18.2.8,Unknown,Unknown,Unknown,Unknown,Unknown
+======= Moredun Library
+======= Gilmerton Library[80]
+======= Morningside Library[80]
+Trying telnet on 10.18.5.8
+Morningside Library[80],PUB,10.18.5.8,Unknown,Unknown,Unknown,Unknown,Unknown
+======= South Local Office [80]
+Trying telnet on 10.18.6.8
+South Local Office [80],PUB,10.18.6.8,Unknown,Unknown,Unknown,Unknown,Unknown
+Trying telnet on 10.18.6.9
+South Local Office [80],PUB,10.18.6.9,Unknown,Unknown,Unknown,Unknown,Unknown
+======= Mortonhall Crematorium
+Trying telnet on 10.18.7.8
+Mortonhall Crematorium,PUB,10.18.7.8,Unknown,Unknown,Unknown,Unknown,Unknown
+Trying telnet on 10.18.7.9
+Mortonhall Crematorium,PUB,10.18.7.9,Unknown,Unknown,Unknown,Unknown,Unknown
+======= Muirhouse Library[80]
+Trying telnet on 10.19.1.8
+Muirhouse Library[80],PUB,10.19.1.8,Unknown,Unknown,Unknown,Unknown,Unknown
+======= Blackhall Library [80]
+Trying telnet on 10.19.2.8
+Blackhall Library [80],PUB,10.19.2.8,Unknown,Unknown,Unknown,Unknown,Unknown
+======= South Queensferry Library[80]
+Trying telnet on 10.19.3.8
+South Queensferry Library[80],PUB,10.19.3.8,Unknown,Unknown,Unknown,Unknown,Unknown
+======= Stockbridge Library [80]
+Trying telnet on 10.19.4.8
+Stockbridge Library [80],PUB,10.19.4.8,Unknown,Unknown,Unknown,Unknown,Unknown
+======= Fountainbridge Library[80]
+Trying telnet on 10.19.5.8
+Fountainbridge Library[80],PUB,10.19.5.8,Unknown,Unknown,Unknown,Unknown,Unknown
+======= Newington Library [80]
+Trying telnet on 10.19.6.8
+Newington Library [80],PUB,10.19.6.8,Unknown,Unknown,Unknown,Unknown,Unknown
+======= AtriaOne
+Trying telnet on 10.19.7.8
+AtriaOne,PUB,10.19.7.8,Unknown,Unknown,Unknown,Unknown,Unknown
+======= Craigmillar Library[80] (Closed)
+======= Piershill Library[80]
+Trying telnet on 10.20.2.8
+Piershill Library[80],PUB,10.20.2.8,Unknown,Unknown,Unknown,Unknown,Unknown
+======= Portobello Library [80]
+Trying telnet on 10.20.3.8
+Portobello Library [80],PUB,10.20.3.8,Unknown,Unknown,Unknown,Unknown,Unknown
+======= Leith Library [80]
+Trying telnet on 10.20.4.8
+Leith Library [80],PUB,10.20.4.8,Unknown,Unknown,Unknown,Unknown,Unknown
+======= Granton Library[80]
+Trying telnet on 10.20.5.8
+Granton Library[80],PUB,10.20.5.8,Unknown,Unknown,Unknown,Unknown,Unknown
+======= MacDonald Road Library [80]
+Trying telnet on 10.20.6.8
+MacDonald Road Library [80],PUB,10.20.6.8,Unknown,Unknown,Unknown,Unknown,Unknown
+======= ENOLC (50)
+Trying telnet on 10.20.7.8
+It's a Cisco
+ENOLC (50),PUB,10.20.7.8,WS-C2960-48PST-L,P-1531-SW-2960-01,Unknown,88:75:56:9A:48:00,FCQ1631Y3CA
+Trying telnet on 10.20.7.9
+It's a Cisco
+ENOLC (50),PUB,10.20.7.9,WS-C2960-48PST-L,P-1531-SW-2960-02,Unknown,88:75:56:52:DB:80,FCQ1631X0TT
+======= Fort Shared Services
+Trying telnet on 10.20.8.8
+Fort Shared Services,PUB,10.20.8.8,Unknown,Unknown,Unknown,Unknown,Unknown
+======= AGB Public Vlan
+======= BTS Public Vlan
+======= City Chambers User-1 VLAN
+======= City Chambers WiFi-1 VLAN
+======= Assembley Rooms [80]
+Trying telnet on 10.23.176.8
+Assembley Rooms [80],PUB,10.23.176.8,Unknown,Unknown,Unknown,Unknown,Unknown
+Trying telnet on 10.23.176.9
+Assembley Rooms [80],PUB,10.23.176.9,Unknown,Unknown,Unknown,Unknown,Unknown
+Trying telnet on 10.23.176.10
+Assembley Rooms [80],PUB,10.23.176.10,Unknown,Unknown,Unknown,Unknown,Unknown
+======= Central Library[80]
+Trying telnet on 10.23.180.8
+Central Library[80],PUB,10.23.180.8,Unknown,Unknown,Unknown,Unknown,Unknown
+Trying telnet on 10.23.180.9
+Central Library[80],PUB,10.23.180.9,Unknown,Unknown,Unknown,Unknown,Unknown
+Trying telnet on 10.23.180.10
+Central Library[80],PUB,10.23.180.10,Unknown,Unknown,Unknown,Unknown,Unknown
+Trying telnet on 10.23.180.11
+Central Library[80],PUB,10.23.180.11,Unknown,Unknown,Unknown,Unknown,Unknown
+Trying telnet on 10.23.180.12
+Central Library[80],PUB,10.23.180.12,Unknown,Unknown,Unknown,Unknown,Unknown
+======= Edinburgh Bus Station - 1430
+Trying telnet on 10.23.184.8
+Edinburgh Bus Station - 1430,PUB,10.23.184.8,Unknown,Unknown,Unknown,Unknown,Unknown
+======= Lothian Chambers
+Trying telnet on 10.23.188.8
+Lothian Chambers,PUB,10.23.188.8,Unknown,Unknown,Unknown,Unknown,Unknown
+======= Parliament Square
+Trying telnet on 10.23.192.8
+Parliament Square,PUB,10.23.192.8,Unknown,Unknown,Unknown,Unknown,Unknown
+======= Waverley Court User-1 VLAN

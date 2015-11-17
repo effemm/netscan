@@ -1,0 +1,494 @@
+Hello World
+school,prefix,ip,model,sysname,location,MAC,serial
+Using corphelp.csv
+======= 10 Chester Street Children and Families
+======= 10-14 Manor Place
+======= 10-14 Manor Place
+======= 63 Niddrie Mains Terrace
+======= 63 Niddrie Mains Terrace
+======= Advice Shop
+======= Assembley Rooms Corporate
+Assembley Rooms Corporate,CORP,10.189.140.8,,C-0345-SW-2960-01,Unknown,5C:50:15:35:D4:80,
+Assembley Rooms Corporate,CORP,10.189.140.9,,C-0345-SW-2960-02,Unknown,5C:50:15:8C:49:80,
+Assembley Rooms Corporate,CORP,10.189.140.21,Unknown,Unknown,Unknown,Unknown,Unknown
+Assembley Rooms Corporate,CORP,10.189.140.26,Unknown,Unknown,Unknown,Unknown,Unknown
+Assembley Rooms Corporate,CORP,10.189.140.28,FS750T2,,,,Unknown
+======= ATRIA ONE - 1547 - Data Vlan
+ATRIA ONE - 1547 - Data Vlan,CORP,10.155.12.8,,C-1547-SW-2960-01,Unknown,18:9C:5D:FD:C1:00,
+======= ATRIA ONE - 1547 - Voice Vlan
+ATRIA ONE - 1547 - Voice Vlan,CORP,10.155.15.8,,C-1547-SW-2960-01,Unknown,18:9C:5D:FD:C1:00,
+======= Baileyfield Direct Service Organisation
+Baileyfield Direct Service Organisation,CORP,10.162.8.8,WS-C2950G-24-EI,C-0336-SW-2950-01,,00:09:E8:E3:62:40,FHK0625W19W
+======= Bangholm Sports Centre
+Bangholm Sports Centre,CORP,10.164.32.8,,C-1507-SW-2960-01,Unknown,08:1F:F3:F9:0F:00,
+======= Bankhead Avenue (POP - BHA) Edinburgh Road Services
+Bankhead Avenue (POP - BHA) Edinburgh Road Services,CORP,10.139.32.8,WS-C2960-48TC-L,C-1502-SW-2960-01,Unknown,00:1C:F9:C7:D0:00,FOC1130X2HT
+Bankhead Avenue (POP - BHA) Edinburgh Road Services,CORP,10.139.32.9,WS-C2960-48TC-L,C-1502-SW-2960-02,Unknown,00:1C:B1:BB:E8:00,FOC1130X2JW
+Bankhead Avenue (POP - BHA) Edinburgh Road Services,CORP,10.139.32.10,WS-C2960-24TC-L,C-1502-SW-2960-03,Unknown,00:1C:57:B0:18:00,FOC1125X0GN
+Bankhead Avenue (POP - BHA) Edinburgh Road Services,CORP,10.139.32.11,WS-C2960-24TC-L,C-1502-SW-2960-04,Unknown,00:1B:0D:DA:AA:80,FOC1123ZC5W
+Bankhead Avenue (POP - BHA) Edinburgh Road Services,CORP,10.139.32.12,WS-C2960-24TC-S,C-1502-SW-2960-05,Unknown,00:22:0C:F3:16:80,FOC1224X2AH
+Bankhead Avenue (POP - BHA) Edinburgh Road Services,CORP,10.139.32.13,Unknown,Unknown,Unknown,Unknown,Unknown
+Bankhead Avenue (POP - BHA) Edinburgh Road Services,CORP,10.139.32.25,Unknown,Unknown,Unknown,Unknown,Unknown
+Bankhead Avenue (POP - BHA) Edinburgh Road Services,CORP,10.139.32.26,FS750T2,,,,Unknown
+======= Barnton Depot
+Barnton Depot,CORP,10.154.36.8,WS-C2960-8TC-L,c-1408-sw-2960-01,Unknown,00:1E:BD:E4:42:80,FOC1150Z3JT
+Barnton Depot,CORP,10.154.36.21,Unknown,Unknown,Unknown,Unknown,Unknown
+Barnton Depot,CORP,10.154.36.25,Unknown,Unknown,Unknown,Unknown,Unknown
+Barnton Depot,CORP,10.154.36.26,Unknown,Unknown,Unknown,Unknown,Unknown
+Barnton Depot,CORP,10.154.36.27,FS750T2,,,,Unknown
+======= Bingham Way Homeless Accomodation
+Bingham Way Homeless Accomodation,CORP,10.162.24.8,WS-C2950G-24-EI,C-1479-SW-2950-01,,00:14:A9:60:B0:00,FCZ0931X0F6
+======= Blackford Depot
+Blackford Depot,CORP,10.147.64.8,WS-C2960-8TC-L,c-1455-sw-2960-01,Unknown,00:22:0D:39:50:80,FOC1224U491
+======= Blackfriars Street
+Blackfriars Street,CORP,10.189.108.8,WS-C2960-48TC-L,C-1511-SW-2960-01,Unknown,00:24:F7:61:67:00,FOC1307Z1V6
+======= Blackhall Library
+Blackhall Library,CORP,10.154.8.10,WS-C2950C-24,c-350-sw-2950-02,,00:09:7C:3E:38:40,FOC0614Z1JH
+Blackhall Library,CORP,10.154.8.12,Unknown,Unknown,Unknown,Unknown,Unknown
+======= "Bonnington ATC
+"Bonnington ATC, 200 Bonnington Rd",10.163.48.8,,C-0197-SW-2960-01,Unknown,B8:62:1F:AA:0F:00,
+"Bonnington ATC, 200 Bonnington Rd",10.163.48.9,,C-0197-SW-2960-02,Unknown,64:AE:0C:75:A8:80,
+"Bonnington ATC, 200 Bonnington Rd",10.163.48.13,Unknown,Unknown,Unknown,Unknown,Unknown
+======= "Bonnington ATC
+======= BT Alexander Graham Bell House CEC Corporate VLAN 11
+BT Alexander Graham Bell House CEC Corporate VLAN 11,CORP,10.101.4.18,Unknown,Unknown,Unknown,Unknown,Unknown
+BT Alexander Graham Bell House CEC Corporate VLAN 11,CORP,10.101.4.22,Unknown,Unknown,Unknown,Unknown,Unknown
+======= BT Alexander Graham Bell House CEC Management VLAN 16
+======= BT Sighthill CEC Corporate VLAN
+BT Sighthill CEC Corporate VLAN,CORP,10.102.4.16,Unknown,Unknown,Unknown,Unknown,Unknown
+======= BT Sighthill Management VLAN
+BT Sighthill Management VLAN,CORP,10.102.16.15,Unknown,Unknown,Unknown,Unknown,Unknown
+BT Sighthill Management VLAN,CORP,10.102.16.25,Unknown,Unknown,Unknown,Unknown,Unknown
+BT Sighthill Management VLAN,CORP,10.102.16.26,Unknown,Unknown,Unknown,Unknown,Unknown
+======= Capital Exchange C-VD-CLIENT1
+======= Capital Exchange C-VD-CLIENT2
+======= Capital Exchange C-VD-CLIENT3
+======= Capital Exchange C-VD-CLIENT4
+======= Capital Skills
+Capital Skills,CORP,10.161.20.8,WS-C2950G-24-EI,CAPITAL_SKILLS,,00:0D:65:79:D1:00,FOC0728W2PE
+Capital Skills,CORP,10.161.20.9,WS-C2950G-24-EI,c-1346-sw-2950-02,,00:0C:85:50:EC:40,FOC0713W07E
+======= Capito Livingston (POP  - CLL)
+======= CaslteCliff
+CaslteCliff,CORP,10.189.76.8,WS-C2950-24,C-1432-SW-2950-01,,00:0C:85:7E:5F:C0,FOC0712Y16X
+======= "CEC Services for Communities
+"CEC Services for Communities, 13 Newtoft St",10.147.52.8,,C-1519-SW-2960-01,Unknown,00:26:52:53:2C:80,
+======= Chesser Vlan 1(Management)
+======= Chesser Vlan 2(Contact Centre)
+======= Chesser Vlan 3(BDS)
+======= Chesser Vlan 6(Corporate)
+======= Chesser House Server VLAN
+======= Chesser(NPC)
+======= City Chambers Vlan 1(Management)
+City Chambers Vlan 1(Management),CORP,10.189.4.9,WS-C3550-24-SMI,C-0271-SW-3550-02,,00:09:B7:42:E0:00,CAT0619X020
+City Chambers Vlan 1(Management),CORP,10.189.4.10,WS-C2950G-48-EI,Chambers_CabA_1,,00:0A:41:30:EE:00,FHK0626Y0TU
+City Chambers Vlan 1(Management),CORP,10.189.4.11,WS-C3548-XL-EN,Chambers_CabA_2,,00:09:7C:65:B8:C0,FOC0615W1UZ
+City Chambers Vlan 1(Management),CORP,10.189.4.15,,Chambers_CabB_1,,00:0E:D7:30:7B:00,
+City Chambers Vlan 1(Management),CORP,10.189.4.17,WS-C2950G-48-EI,Chambers_CabB_3,,00:0A:41:30:EE:40,FHK0626Y0TX
+City Chambers Vlan 1(Management),CORP,10.189.4.18,WS-C3750G-24TS-S,,Unknown,00:14:6A:F6:28:00,CAT0924R05K
+City Chambers Vlan 1(Management),CORP,10.189.4.19,Unknown,Unknown,Unknown,Unknown,Unknown
+City Chambers Vlan 1(Management),CORP,10.189.4.20,WS-C2950G-48-EI,Chambers_CabB_4,,00:0B:BE:E4:C6:00,FOC0652X1CA
+======= City Chambers Vlan 3(Corporate)
+City Chambers Vlan 3(Corporate),CORP,10.189.8.15,Unknown,Unknown,Unknown,Unknown,Unknown
+City Chambers Vlan 3(Corporate),CORP,10.189.8.20,Unknown,Unknown,Unknown,Unknown,Unknown
+City Chambers Vlan 3(Corporate),CORP,10.189.8.22,Unknown,Unknown,Unknown,Unknown,Unknown
+======= City Chambers Vlan 4(City Dev)
+City Chambers Vlan 4(City Dev),CORP,10.189.12.9,Unknown,Unknown,Unknown,Unknown,Unknown
+City Chambers Vlan 4(City Dev),CORP,10.189.12.15,Unknown,Unknown,Unknown,Unknown,Unknown
+======= City Chambers Vlan 7(GIS)
+City Chambers Vlan 7(GIS),CORP,10.189.24.20,Unknown,Unknown,Unknown,Unknown,Unknown
+======= City Chambers Vlan 9 (Licensing)
+======= City Chambers Vlan 13 (Services for communities) 1 Cockburn Street
+======= City Arts Centre
+City Arts Centre,CORP,10.189.84.8,WS-C2950G-24-EI,C-0342-SW-2950-01,,00:16:C7:4E:1F:40,FCZ1003X0J1
+City Arts Centre,CORP,10.189.84.9,WS-C2950G-24-EI,C-0342-SW-2950-02,,00:0D:65:79:D4:40,FOC0728X2KM
+======= "Claremont House
+======= Clermiston House
+======= Clovenstone House
+Clovenstone House,CORP,10.139.56.8,,C-0246-SW-2960-01,Unknown,30:37:A6:C4:E7:00,
+======= CORP TEST MAN MIGRATION
+======= Cowans Close
+Cowans Close,CORP,10.156.12.8,,C-0032-SW-2960-01,Unknown,,
+======= Cowgate Clinic
+Cowgate Clinic,CORP,10.189.80.8,WS-C2950G-24-EI,C-1433-SW-2950-01,,00:0B:BE:3A:23:40,FOC0649Z1HC
+======= Craighall Day Centre Granton
+Craighall Day Centre Granton,CORP,10.164.20.8,,C-0202-SW-2960-01,Unknown,00:26:CA:0F:B1:00,
+======= Craigmillar Childrens Centre Liberton
+======= Crane Services
+Crane Services,CORP,10.190.32.8,,C-0242-SW-2960-01,Unknown,00:26:CA:0F:8B:00,
+======= Crimal Justice
+======= Deanbank
+Deanbank,CORP,10.148.16.8,,C-0198-SW-2960-01,Unknown,30:37:A6:C4:BB:00,
+======= District Court
+======= Drumbrae Data VLAN
+Drumbrae Data VLAN,CORP,10.154.32.8,,C-1530-SW-2960-01,Unknown,A0:CF:5B:82:A6:00,
+Drumbrae Data VLAN,CORP,10.154.32.9,,C-1530-SW-2960-02,Unknown,24:B6:57:58:94:80,
+======= Drumbrae Voice VLAN
+======= Drumbrae Care Home
+Drumbrae Care Home,CORP,10.154.44.8,WS-C2950T-24,C-1532-SW-2950-01,Unknown,00:0D:65:1C:39:00,FOC0727Z1Q7
+======= Drylaw YPC Dean
+Drylaw YPC Dean,CORP,10.153.20.8,,C-0220-SW-2960-01,Unknown,00:26:CA:0F:2E:00,
+======= Duddingston (POP - DUD)
+======= Duddingston_Voice
+======= Dumbiedykes Road
+Dumbiedykes Road,CORP,10.190.12.8,WS-C2950-24,C-1434-SW-2950-01,,00:0D:29:D5:10:00,FOC0726Y189
+======= Edinburgh Family Support Centre Liberton
+Edinburgh Family Support Centre Liberton,CORP,10.147.20.8,,C-0178-SW-2960-01,Unknown,00:26:CA:0F:68:80,
+======= Edinburgh Family Project (ex-Ferniehill YPC) Liberton
+Edinburgh Family Project (ex-Ferniehill YPC) Liberton,CORP,10.147.36.8,,C-0221-SW-2960-01,Unknown,00:26:98:CF:48:00,
+======= Emergancy Planning
+======= Ferrylee Residental Care Home
+Ferrylee Residental Care Home,CORP,10.163.36.8,,C-0210-SW-2960-01,Unknown,30:37:A6:DD:1C:00,
+======= Firhill Respite Unit [50]
+Firhill Respite Unit [50],CORP,10.145.8.8,,C-1521-SW-2960-01,Unknown,3C:DF:1E:D6:01:00,
+======= Firrhill Day Centre
+Firrhill Day Centre,CORP,10.145.12.8,,C-0208-SW-2960-01,Unknown,30:37:A6:A0:0B:00,
+======= Fords Road
+Fords Road,CORP,10.139.60.8,,C-0249-SW-2960-01,Unknown,30:37:A6:C4:B5:80,
+======= Fort Shared Services - Data (Site ID 0077)
+Fort Shared Services - Data (Site ID 0077),CORP,10.163.56.8,,C-0077-SW-2960-01,Unknown,DC:A5:F4:02:34:00,
+Fort Shared Services - Data (Site ID 0077),CORP,10.163.56.9,,C-0077-SW-2960-02,Unknown,F8:4F:57:E6:F9:00,
+======= Fort Shared Services - Voice (Site ID 0077)
+Fort Shared Services - Voice (Site ID 0077),CORP,10.163.58.8,,C-0077-SW-2960-01,Unknown,DC:A5:F4:02:34:00,
+Fort Shared Services - Voice (Site ID 0077),CORP,10.163.58.9,,C-0077-SW-2960-02,Unknown,F8:4F:57:E6:F9:00,
+======= Gilmerton EYC Liberton
+======= Glenallan
+Glenallan,CORP,10.147.56.8,,C-0236-SW-2960-01,Unknown,30:37:A6:AC:78:00,
+======= Granton Early Years Centre
+======= Greendykes Childrens Centre
+======= Greendykes YPC Liberton
+Greendykes YPC Liberton,CORP,10.147.40.8,WS-C2960-24TC-S,C-0222-SW-2960-01,Unknown,00:22:0C:B1:7C:00,FOC1223U2E2
+======= Grindlay Court data LAN
+Grindlay Court data LAN,CORP,10.186.49.8,WS-C3750-48PS-S,C-1501-SW-3750-01,Unknown,00:19:30:15:90:00,CAT1052ZJS9
+======= Grindlay Court Voice LAN
+Grindlay Court Voice LAN,CORP,10.186.50.8,WS-C3750-48PS-S,C-1501-SW-3750-01,Unknown,00:19:30:15:90:00,CAT1052ZJS9
+======= H&SC Equipment Stores - Prestonfield Park
+======= H&SC Equipment Stores - Prestonfield Park
+======= Hailesland Child and Family Centre
+======= Hawkhill Site (ID 200)
+Hawkhill Site (ID 200),CORP,10.163.20.8,WS-C2950G-24-EI,C-0200-SW-2950-01,,00:13:C3:96:E5:C0,FCZ0917X0AH
+======= Hermitage of Braid
+======= Hermitage of Braid Voice
+======= Hill Street
+======= Holyrood Court
+Holyrood Court,CORP,10.190.36.8,WS-C2950G-24-EI,C-1399-SW-2950-01,,00:0C:CE:39:4A:80,FOC0715Y164
+======= InverLeith Workshop
+InverLeith Workshop,CORP,10.163.52.8,,C-1352-SW-2960-01,Unknown,F8:4F:57:3F:9A:00,
+======= Jewel House Residential Centre
+Jewel House Residential Centre,CORP,10.162.36.8,,C-0250-SW-2960-01,Unknown,30:37:A6:AC:9E:00,
+======= Kings Inch Home for older people
+Kings Inch Home for older people,CORP,10.147.60.8,,C-1523-SW-2960-01,Unknown,10:8C:CF:23:40:00,
+Kings Inch Home for older people,CORP,10.147.60.9,,C-1523-SW-2960-02,Unknown,10:8C:CF:23:68:80,
+Kings Inch Home for older people,CORP,10.147.60.10,,C-1523-SW-2960-03,Unknown,10:8C:CF:64:DB:80,
+======= Kings Stables Road
+======= Lauriston Castle
+Lauriston Castle,CORP,10.154.40.8,,C-346-SW-2960-01,Unknown,,
+======= Leith Street
+Leith Street,CORP,10.186.45.8,WS-C3750-48PS-S,C-0323-SW-3750-01,Unknown,00:1A:A2:2E:54:80,CAT1051ZKRH
+Leith Street,CORP,10.186.45.9,WS-C2950G-24-EI,C-0323-SW-2950-01,,00:13:7F:6D:FB:C0,FCZ0910X0N7
+======= Leith Street Voice VLAN
+Leith Street Voice VLAN,CORP,10.186.46.8,WS-C3750-48PS-S,C-0323-SW-3750-01,Unknown,00:1A:A2:2E:54:80,CAT1051ZKRH
+======= Lib_Balerno Library
+Lib_Balerno Library,CORP,10.139.12.10,WS-C2950T-24,c-348-sw-2950-02,,00:0D:65:1C:04:C0,FOC0727Z1JC
+Lib_Balerno Library,CORP,10.139.12.12,Unknown,Unknown,Unknown,Unknown,Unknown
+======= Lib_Balgreen Library
+Lib_Balgreen Library,CORP,10.137.16.10,WS-C2950T-24,c-0348-sw-2950-02,,00:0D:65:1C:1A:40,FOC0727Y1JW
+Lib_Balgreen Library,CORP,10.137.16.12,Unknown,Unknown,Unknown,Unknown,Unknown
+======= Lib_Central Library VLAN 10 (Corp)
+Lib_Central Library VLAN 10 (Corp),CORP,10.186.10.9,FS750T2,,,,Unknown
+Lib_Central Library VLAN 10 (Corp),CORP,10.186.10.16,WS-C2912MF-XL,cenlib_2914,,00:30:80:45:8F:80,FAA0334L19J
+Lib_Central Library VLAN 10 (Corp),CORP,10.186.10.17,,,,,
+Lib_Central Library VLAN 10 (Corp),CORP,10.186.10.18,,,,,
+Lib_Central Library VLAN 10 (Corp),CORP,10.186.10.19,,,,,
+Lib_Central Library VLAN 10 (Corp),CORP,10.186.10.20,,,,,
+Lib_Central Library VLAN 10 (Corp),CORP,10.186.10.21,,,,,
+Lib_Central Library VLAN 10 (Corp),CORP,10.186.10.22,,,,,
+Lib_Central Library VLAN 10 (Corp),CORP,10.186.10.24,WS-C2950-12,C-0351-SW-2950-01,Unknown,00:0B:5F:C3:0C:80,FOC0647Z0V9
+Lib_Central Library VLAN 10 (Corp),CORP,10.186.10.25,WS-C2950G-48-EI,C-0351-2950-Adminstaff,Unknown,00:18:73:67:D7:C0,FCZ1035W0NH
+Lib_Central Library VLAN 10 (Corp),CORP,10.186.10.27,WS-C2950G-48-EI,C-0351-2950-01-ITS,,00:0B:BE:F7:13:C0,FOC0652X2H8
+======= Lib_Colinton Library
+Lib_Colinton Library,CORP,10.145.4.10,WS-C2950T-24,c-352-sw-2950-02,,00:0D:65:15:9A:80,FOC0727Y1D3
+Lib_Colinton Library,CORP,10.145.4.12,Unknown,Unknown,Unknown,Unknown,Unknown
+======= Lib_Corstorphine Library
+Lib_Corstorphine Library,CORP,10.138.12.10,WS-C2950T-24,c-353-sw-2950-02,,00:0D:65:1C:1A:00,FOC0727Y1KA
+Lib_Corstorphine Library,CORP,10.138.12.12,Unknown,Unknown,Unknown,Unknown,Unknown
+======= Lib_Currie Library
+Lib_Currie Library,CORP,10.139.16.10,WS-C2950T-24,c-356-sw-2950-02,,00:0D:65:15:7F:40,FOC0727Y1C1
+Lib_Currie Library,CORP,10.139.16.12,Unknown,Unknown,Unknown,Unknown,Unknown
+======= Lib_Fountainbridge Library
+Lib_Fountainbridge Library,CORP,10.155.4.10,WS-C2950T-24,c-358-sw-2950-02,,00:0D:29:D5:8D:40,FOC0727Y1KJ
+Lib_Fountainbridge Library,CORP,10.155.4.12,Unknown,Unknown,Unknown,Unknown,Unknown
+======= Lib_Gilmerton Library
+Lib_Gilmerton Library,CORP,10.147.12.10,WS-C2950T-24,c-1336-sw-2950-02,,00:0D:65:1B:FF:C0,FOC0727Z1JB
+Lib_Gilmerton Library,CORP,10.147.12.12,Unknown,Unknown,Unknown,Unknown,Unknown
+======= Lib_Granton Library LAN2
+Lib_Granton Library LAN2,CORP,10.164.12.10,WS-C2950T-24,c-360-sw-2950-02,,00:0D:65:1C:39:80,FOC0727Z1QA
+Lib_Granton Library LAN2,CORP,10.164.12.12,Unknown,Unknown,Unknown,Unknown,Unknown
+======= Lib_Kirkliston Library
+Lib_Kirkliston Library,CORP,10.138.16.10,WS-C2950T-24,c-361-sw-2950-02,,00:0D:65:1C:1C:40,FOC0727Y1JU
+Lib_Kirkliston Library,CORP,10.138.16.12,Unknown,Unknown,Unknown,Unknown,Unknown
+======= Lib_Leith Library
+Lib_Leith Library,CORP,10.163.12.10,WS-C2950T-24,c-0362-sw-2950-01,,00:0D:65:1C:3B:00,FOC0727Y1LR
+Lib_Leith Library,CORP,10.163.12.11,WS-C2960-48TC-L,c-0362-sw-2960-01,Unknown,00:23:EA:98:7D:80,FOC1250V8CT
+Lib_Leith Library,CORP,10.163.12.12,Unknown,Unknown,Unknown,Unknown,Unknown
+Lib_Leith Library,CORP,10.163.12.15,Unknown,Unknown,Unknown,Unknown,Unknown
+Lib_Leith Library,CORP,10.163.12.20,FS750T2,,,,Unknown
+Lib_Leith Library,CORP,10.163.12.21,Unknown,Unknown,Unknown,Unknown,Unknown
+Lib_Leith Library,CORP,10.163.12.23,FS750T2,,,,Unknown
+Lib_Leith Library,CORP,10.163.12.25,Unknown,Unknown,Unknown,Unknown,Unknown
+Lib_Leith Library,CORP,10.163.12.26,Unknown,Unknown,Unknown,Unknown,Unknown
+======= Lib_McDonald Rd Library
+Lib_McDonald Rd Library,CORP,10.190.24.10,WS-C2950T-24,c-365-sw-2950-02,,00:0D:65:1C:20:C0,FOC0727Z1NX
+Lib_McDonald Rd Library,CORP,10.190.24.12,Unknown,Unknown,Unknown,Unknown,Unknown
+======= Lib_Moredun Library
+Lib_Moredun Library,CORP,10.147.8.10,WS-C2950T-24,c-367-sw-2950-02,,00:0D:65:1C:39:C0,FOC0727Y1LU
+Lib_Moredun Library,CORP,10.147.8.12,Unknown,Unknown,Unknown,Unknown,Unknown
+======= Lib_Morningside Library
+Lib_Morningside Library,CORP,10.148.4.10,WS-C2950-24,C-0368-SW-2950-01,,00:0B:BE:9E:9E:40,FOC0651Z2RD
+Lib_Morningside Library,CORP,10.148.4.12,Unknown,Unknown,Unknown,Unknown,Unknown
+======= Lib_Muirhouse Library
+Lib_Muirhouse Library,CORP,10.153.8.10,WS-C2950T-24,c-369-sw-2950-02,,00:0D:65:1B:FA:40,FOC0727Y1F0
+Lib_Muirhouse Library,CORP,10.153.8.12,Unknown,Unknown,Unknown,Unknown,Unknown
+======= Lib_Newington Library
+Lib_Newington Library,CORP,10.156.4.10,WS-C2950G-24-EI,c-0370-sw-2950-02,,00:0B:FD:08:19:00,FOC0701Y0WT
+Lib_Newington Library,CORP,10.156.4.12,Unknown,Unknown,Unknown,Unknown,Unknown
+======= Lib_Oxgangs Library
+Lib_Oxgangs Library,CORP,10.146.8.10,WS-C2950T-24,c-371-sw-2950-02,,00:0D:65:1C:17:00,FOC0727Z1N2
+Lib_Oxgangs Library,CORP,10.146.8.12,Unknown,Unknown,Unknown,Unknown,Unknown
+======= Lib_Piershill Library
+Lib_Piershill Library,CORP,10.162.16.10,WS-C2950T-24,c-372-sw-2950-02,,00:0D:65:1C:2F:40,FOC0727Z1PQ
+Lib_Piershill Library,CORP,10.162.16.12,Unknown,Unknown,Unknown,Unknown,Unknown
+======= Lib_Portobello Library
+Lib_Portobello Library,CORP,10.162.20.10,WS-C2950T-24,c-373-sw-2950-02,,00:0D:65:15:6D:40,FOC0727Z1JV
+Lib_Portobello Library,CORP,10.162.20.12,Unknown,Unknown,Unknown,Unknown,Unknown
+======= Lib_Ratho Library
+Lib_Ratho Library,CORP,10.138.20.10,WS-C2950T-24,C-0461-SW-2950-01,Unknown,00:1A:2F:44:EA:80,FCZ110271EU
+======= Lib_South Queensferry Library
+Lib_South Queensferry Library,CORP,10.154.12.10,WS-C2950T-24,c-377-sw-2950-02,,00:0D:65:1C:18:00,FOC0727Z1NL
+Lib_South Queensferry Library,CORP,10.154.12.12,Unknown,Unknown,Unknown,Unknown,Unknown
+======= Lib_Stockbridge Library
+Lib_Stockbridge Library,CORP,10.154.16.10,WS-C2950T-24,c-378-sw-2950-02,,00:0D:65:1C:38:C0,FOC0727Z1Q5
+Lib_Stockbridge Library,CORP,10.154.16.12,Unknown,Unknown,Unknown,Unknown,Unknown
+======= Lib_Wester Hailes Library
+Lib_Wester Hailes Library,CORP,10.139.24.10,WS-C2950T-24,c-379-sw-2950-02,,00:0D:29:D5:A4:00,FOC0727Y1K3
+Lib_Wester Hailes Library,CORP,10.139.24.12,Unknown,Unknown,Unknown,Unknown,Unknown
+======= Local Area Co-ordination Team
+Local Area Co-ordination Team,CORP,10.189.124.8,,C-1524-SW-2960-01,Unknown,30:37:A6:A0:1F:80,
+======= Local_East Local Office (POP - ELO)
+Local_East Local Office (POP - ELO),CORP,10.161.40.8,,C-1531-SW-2960-01,Unknown,88:75:56:4A:D1:80,
+Local_East Local Office (POP - ELO),CORP,10.161.40.9,,C-1531-SW-2960-02,Unknown,88:75:56:5A:D5:00,
+Local_East Local Office (POP - ELO),CORP,10.161.40.10,,C-1531-SW-2960-03,Unknown,88:75:56:9E:11:00,
+Local_East Local Office (POP - ELO),CORP,10.161.40.11,,C-1531-SW-2960-04,Unknown,88:75:56:64:8D:00,
+Local_East Local Office (POP - ELO),CORP,10.161.40.12,,C-1531-SW-2960-05,Unknown,88:75:56:9A:47:00,
+Local_East Local Office (POP - ELO),CORP,10.161.40.13,,C-1531-SW-2960-06,Unknown,88:75:56:53:F7:00,
+Local_East Local Office (POP - ELO),CORP,10.161.40.14,,C-1531-SW-2960-07,Unknown,88:75:56:88:81:00,
+Local_East Local Office (POP - ELO),CORP,10.161.40.15,,C-1531-SW-2960-08,Unknown,88:75:56:64:86:00,
+Local_East Local Office (POP - ELO),CORP,10.161.40.16,,C-1531-SW-2960-09,Unknown,88:75:56:29:E6:00,
+Local_East Local Office (POP - ELO),CORP,10.161.40.17,,C-1531-SW-2960-10,Unknown,88:75:56:4B:00:00,
+Local_East Local Office (POP - ELO),CORP,10.161.40.18,,C-1531-SW-2960-11,Unknown,88:75:56:4A:FF:80,
+Local_East Local Office (POP - ELO),CORP,10.161.40.19,,C-1531-SW-2960-12,Unknown,64:AE:0C:75:92:80,
+======= Local_East Local Office Voice
+Local_East Local Office Voice,CORP,10.161.42.16,Unknown,Unknown,Unknown,Unknown,Unknown
+Local_East Local Office Voice,CORP,10.161.42.17,Unknown,Unknown,Unknown,Unknown,Unknown
+Local_East Local Office Voice,CORP,10.161.42.18,Unknown,Unknown,Unknown,Unknown,Unknown
+======= Local_North Local Office (POP- NLO) West Pilton Gardens
+Local_North Local Office (POP- NLO) West Pilton Gardens,CORP,10.153.2.8,WS-C2950G-24-EI,C-0177-SW-2950-01,,00:09:E8:E3:68:40,FHK0625X1EE
+Local_North Local Office (POP- NLO) West Pilton Gardens,CORP,10.153.2.13,WS-C2950G-24-EI,C-0177-SW-2950-06,,00:14:69:AD:8D:80,FCZ0922Y1P4
+Local_North Local Office (POP- NLO) West Pilton Gardens,CORP,10.153.2.14,WS-C2950G-24-EI,C-0177-SW-2950-07,,00:17:94:47:CC:80,FCZ1017X10W
+Local_North Local Office (POP- NLO) West Pilton Gardens,CORP,10.153.2.15,Unknown,Unknown,Unknown,Unknown,Unknown
+Local_North Local Office (POP- NLO) West Pilton Gardens,CORP,10.153.2.16,Unknown,Unknown,Unknown,Unknown,Unknown
+Local_North Local Office (POP- NLO) West Pilton Gardens,CORP,10.153.2.19,Unknown,Unknown,Unknown,Unknown,Unknown
+Local_North Local Office (POP- NLO) West Pilton Gardens,CORP,10.153.2.24,Unknown,Unknown,Unknown,Unknown,Unknown
+Local_North Local Office (POP- NLO) West Pilton Gardens,CORP,10.153.2.26,FS750T2,,,,Unknown
+======= Local_South Local Office (POP -SLO)
+Local_South Local Office (POP -SLO),CORP,10.147.2.8,FS726T,,,,Unknown
+Local_South Local Office (POP -SLO),CORP,10.147.2.9,WS-C2950G-48-EI,C-0314-SW-2950-02,,00:09:B7:BB:8A:40,FOC0620X2C0
+Local_South Local Office (POP -SLO),CORP,10.147.2.10,WS-C2950G-48-EI,C-0314-SW-2950-03,,00:09:B7:C1:90:00,FOC0620W2SR
+Local_South Local Office (POP -SLO),CORP,10.147.2.12,Unknown,Unknown,Unknown,Unknown,Unknown
+Local_South Local Office (POP -SLO),CORP,10.147.2.20,WS-C2950G-24-EI,C-0314-SW-2950-SRD,,00:17:94:47:E0:80,FCZ1017X10J
+Local_South Local Office (POP -SLO),CORP,10.147.2.26,FS750T2,,,,Unknown
+======= Local_South Local Office (POP -SLO) - Data Vlan 30
+Local_South Local Office (POP -SLO) - Data Vlan 30,CORP,10.147.4.12,Unknown,Unknown,Unknown,Unknown,Unknown
+Local_South Local Office (POP -SLO) - Data Vlan 30,CORP,10.147.4.13,Unknown,Unknown,Unknown,Unknown,Unknown
+Local_South Local Office (POP -SLO) - Data Vlan 30,CORP,10.147.4.14,Unknown,Unknown,Unknown,Unknown,Unknown
+Local_South Local Office (POP -SLO) - Data Vlan 30,CORP,10.147.4.15,Unknown,Unknown,Unknown,Unknown,Unknown
+======= Local_South Local Office - VOIP Vlan 730
+Local_South Local Office - VOIP Vlan 730,CORP,10.147.6.12,Unknown,Unknown,Unknown,Unknown,Unknown
+Local_South Local Office - VOIP Vlan 730,CORP,10.147.6.14,Unknown,Unknown,Unknown,Unknown,Unknown
+Local_South Local Office - VOIP Vlan 730,CORP,10.147.6.15,Unknown,Unknown,Unknown,Unknown,Unknown
+======= Local_West Edinburgh Office (POP - WLO)
+Local_West Edinburgh Office (POP - WLO),CORP,10.139.2.8,WS-C2950G-24-EI,C-0297-SW-2950-01,,00:09:7C:33:AF:40,FHK0614Y1MJ
+Local_West Edinburgh Office (POP - WLO),CORP,10.139.2.9,WS-C2950G-48-EI,C-0297-SW-2950-02,,00:0F:F7:2B:43:C0,FOC0815X1TR
+Local_West Edinburgh Office (POP - WLO),CORP,10.139.2.10,WS-C2950G-48-EI,C-0297-SW-2950-03,,00:09:B7:BB:7E:40,FOC0620W2TD
+Local_West Edinburgh Office (POP - WLO),CORP,10.139.2.11,WS-C2950G-24-EI,C-0297-SW-2950-04,,00:17:94:47:D1:00,FCZ1017X116
+Local_West Edinburgh Office (POP - WLO),CORP,10.139.2.15,Unknown,Unknown,Unknown,Unknown,Unknown
+Local_West Edinburgh Office (POP - WLO),CORP,10.139.2.26,FS750T2,,,,Unknown
+======= Longstone
+Longstone,CORP,10.139.52.8,,C-0201-SW-2960-01,Unknown,30:37:A6:AC:93:00,
+======= Lothian Chambers data LAN
+Lothian Chambers data LAN,CORP,10.186.53.8,WS-C3750-48PS-S,C-1493-virt-cab-01,Unknown,00:1A:A2:9E:B1:00,CAT1052ZJ33
+======= Lothian Chambers_voice LAN
+Lothian Chambers_voice LAN,CORP,10.186.54.8,WS-C3750-48PS-S,C-1493-virt-cab-01,Unknown,00:1A:A2:9E:B1:00,CAT1052ZJ33
+======= Lothian Bus Depot
+Lothian Bus Depot,CORP,10.190.40.8,,C-1546-SW-2960-01,Unknown,,
+======= Marionville Court
+Marionville Court,CORP,10.163.32.8,WS-C2960-24TC-L,C-1499-SW-2960-01,Unknown,00:1B:54:DB:F2:00,FOC1113X1NF
+======= Moredun YPC Liberton
+Moredun YPC Liberton,CORP,10.147.44.8,,C-0223-SW-2960-01,Unknown,00:26:CA:0E:9A:80,
+======= Morton Fraser Solicitors
+======= Mortonhall Crematorium
+Mortonhall Crematorium,CORP,10.147.16.8,WS-C2950-24,c-0289-sw-2950-01,,00:0B:BE:9F:9D:00,FOC0651Z351
+Mortonhall Crematorium,CORP,10.147.16.9,WS-C2950G-24-EI,c-0289-sw-2950-02,,00:0F:24:46:EA:C0,FOC0804X1TG
+======= Murrayburn Road - Building Services (POP - MYR)
+Murrayburn Road - Building Services (POP - MYR),CORP,10.186.16.8,WS-C2950G-48-EI,C-0294-SW-2950-04,,00:0B:BE:E4:CB:00,FOC0652W1DM
+Murrayburn Road - Building Services (POP - MYR),CORP,10.186.16.9,WS-C3548-XL-EN,C-0294-SW-3500-02,,00:07:EB:90:B2:80,FAB0546Q0BZ
+Murrayburn Road - Building Services (POP - MYR),CORP,10.186.16.10,WS-C3548-XL-EN,C-0294-SW-3500-01,,00:09:7C:3B:E4:C0,FOC0614W1P4
+Murrayburn Road - Building Services (POP - MYR),CORP,10.186.16.11,WS-C2950G-24-EI,C-0294-SW-2950-11,,00:09:E8:E3:70:80,FHK0625X1DV
+Murrayburn Road - Building Services (POP - MYR),CORP,10.186.16.12,WS-C2950G-24-EI,C-0294-SW-2950-06,,00:09:E8:E3:64:C0,FHK0625X1EL
+Murrayburn Road - Building Services (POP - MYR),CORP,10.186.16.13,WS-C2950G-48-EI,C-0294-SW-2950-05,,00:0C:85:BB:2E:40,FOC0713W2RC
+Murrayburn Road - Building Services (POP - MYR),CORP,10.186.16.14,WS-C2950G-48-EI,C-0294-SW-2950-01,Unknown,00:0A:41:31:0D:40,FHK0626Z0SY
+Murrayburn Road - Building Services (POP - MYR),CORP,10.186.16.15,Unknown,Unknown,Unknown,Unknown,Unknown
+Murrayburn Road - Building Services (POP - MYR),CORP,10.186.16.17,WS-C2960-24TC-S,C-0294-SW-2960-01,Unknown,00:22:0C:F3:13:80,FOC1224X2C1
+Murrayburn Road - Building Services (POP - MYR),CORP,10.186.16.20,WS-C2950-24,C-0294-SW-2950-20,,00:0A:41:2F:E0:40,FOC0626Y026
+Murrayburn Road - Building Services (POP - MYR),CORP,10.186.16.22,Unknown,Unknown,Unknown,Unknown,Unknown
+Murrayburn Road - Building Services (POP - MYR),CORP,10.186.16.26,Unknown,Unknown,Unknown,Unknown,Unknown
+======= Museum of Edinburgh
+Museum of Edinburgh,CORP,10.189.144.8,,C-329-SW-2960-01,Unknown,30:37:A6:C4:9D:80,
+======= Museum of Childhood
+Museum of Childhood,CORP,10.189.148.8,,C-347-SW-2960-01,Unknown,,
+======= Museum - Writers Museum
+Museum - Writers Museum,CORP,10.189.152.8,,C-1320-SW-2960-01,Unknown,,
+======= Museum Collection Office
+Museum Collection Office,CORP,10.189.156.8,,C-341-SW-2960-01,Unknown,,
+======= North Merchiston Day Care
+North Merchiston Day Care,CORP,10.137.24.8,Unknown,Unknown,Unknown,Unknown,Unknown
+======= Northfield YPC Portobello
+Northfield YPC Portobello,CORP,10.162.32.8,,C-0224-SW-2960-01,Unknown,00:26:51:0E:FE:00,
+======= Oaklands
+Oaklands,CORP,10.148.12.8,,C-1334-SW-2960-01,Unknown,30:37:A6:AC:C0:80,
+======= Old Royal High School
+Old Royal High School,CORP,10.190.28.8,WS-C2950G-48-EI,C-1404-SW-2950-01,,00:0C:85:8D:DF:80,FOC0713W08K
+Old Royal High School,CORP,10.190.28.9,WS-C2950G-24-EI,C-1404-SW-2950-02,,00:14:69:AD:7D:C0,FCZ0922X1KF
+Old Royal High School,CORP,10.190.28.10,WS-C2950G-24-EI,C-1404-SW-2950-03,,00:13:1A:B1:8B:80,FCZ0907W0XD
+Old Royal High School,CORP,10.190.28.11,WS-C2950G-24-EI,C-1404-SW-2950-04,,00:13:7F:5F:0B:00,FCZ0912W0AW
+======= Oxgangs YPC Fairmilehead
+Oxgangs YPC Fairmilehead,CORP,10.146.20.8,,C-0225-SW-2960-01,Unknown,00:26:CA:0F:A4:80,
+======= Parkview
+Parkview,CORP,10.156.8.8,,C-0215-SW-2960-01,Unknown,30:37:A6:C4:C5:00,
+======= Parliament Square Data Vlan 20
+Parliament Square Data Vlan 20,CORP,10.189.160.8,,C-1549-SW-2960-01,Unknown,9C:AF:CA:7D:C1:00,
+Parliament Square Data Vlan 20,CORP,10.189.160.9,,C-1549-SW-2960-02,Unknown,B8:62:1F:AA:19:80,
+======= Parliament Square Voice Vlan 720
+Parliament Square Voice Vlan 720,CORP,10.189.162.8,,C-1549-SW-2960-01,Unknown,9C:AF:CA:7D:C1:00,
+Parliament Square Voice Vlan 720,CORP,10.189.162.9,,C-1549-SW-2960-02,Unknown,B8:62:1F:AA:19:80,
+======= Pefferbank Adult Learning
+======= Pennywell SWC
+======= Pennywell SWC
+======= Pentland View CSU Fairmilehead
+Pentland View CSU Fairmilehead,CORP,10.146.24.8,,C-0230-SW-2960-01,Unknown,00:26:98:CF:0B:00,
+======= Porthaven
+Porthaven,CORP,10.163.40.8,,C-0216-SW-2960-01,Unknown,30:37:A6:C4:77:80,
+======= Powderhall
+Powderhall,CORP,10.190.8.8,WS-C2950-24,C-0291-SW-2950-01,,00:07:50:43:C5:80,FOC0534X0UP
+======= Queen Street
+======= Queensferry Childrens Centre South Queensferry
+======= Randolph Crescent
+Randolph Crescent,CORP,10.189.68.8,WS-C2950G-24-EI,C-0322-SW-2950-01,,00:0B:FD:08:00:40,FOC0701Y0WP
+======= Ravenglass
+======= Risk Factory
+Risk Factory,CORP,10.140.4.8,,C-1489-SW-2960-01,Unknown,E8:ED:F3:90:62:00,
+======= Royston Day Centre (Granton DCC)
+Royston Day Centre (Granton DCC),CORP,10.164.28.8,,C-1526-SW-2960-01,Unknown,E8:BA:70:64:0F:80,
+======= Russell Road
+Russell Road,CORP,10.137.12.8,Unknown,Unknown,Unknown,Unknown,Unknown
+Russell Road,CORP,10.137.12.9,WS-C2960-48TC-L,c-0290-sw-2960-01,Unknown,00:23:05:F7:45:80,FOC1236Y31M
+Russell Road,CORP,10.137.12.10,WS-C2950G-24-EI,c-0290-sw-2950-01,,00:0C:85:41:4A:00,FOC0712Y0FF
+Russell Road,CORP,10.137.12.15,Unknown,Unknown,Unknown,Unknown,Unknown
+======= Scott & Co
+Scott & Co,CORP,10.189.112.8,Unknown,Unknown,Unknown,Unknown,Unknown
+======= Seafield Scientific Services
+Seafield Scientific Services,CORP,10.163.24.8,WS-C2950-24,c-0286-sw-2950-01,Unknown,00:0E:83:B3:49:40,FOC0747Z7NC
+======= Seaview Respite Centre
+Seaview Respite Centre,CORP,10.162.44.8,,C-1545-SW-2960-01,Unknown,2C:36:F8:6F:5C:80,
+======= Secure Client VPN Users (VPN)
+======= Sheriff Court
+Sheriff Court,CORP,10.189.120.8,,C-1231-SW-2960-01,Unknown,30:37:A6:C4:7A:00,
+======= Sighthill Child and Family Centre
+======= Silverlea Care Home
+Silverlea Care Home,CORP,10.154.24.8,,C-0217-SW-2960-01,Unknown,30:37:A6:AC:92:80,
+======= South Gyle Respite Unit
+South Gyle Respite Unit,CORP,10.138.28.8,,C-0239-SW-2960-01,Unknown,30:37:A6:A0:03:80,
+======= South Queensferry Local Office
+South Queensferry Local Office,CORP,10.154.4.8,WS-C2950G-24-EI,C-0302-SW-2950-01,,00:13:7F:86:0E:00,FCZ0914X06F
+======= South Bridge Resource Centre
+South Bridge Resource Centre,CORP,10.189.116.8,WS-C2950G-24-EI,C-0423-SW-2950-01,,00:13:7F:0E:DF:80,FCZ0910Y0UH
+======= Southhouse YPC Liberton
+Southhouse YPC Liberton,CORP,10.147.48.8,,C-0226-SW-2960-01,Unknown,00:26:CA:0F:93:00,
+======= St Andrews Square
+St Andrews Square,CORP,10.190.20.8,WS-C2950G-24-EI,C-1430-SW-2950-01,,00:0C:30:66:D0:00,FOC0707Z0W4
+======= Stanley Street
+======= Stenhouse C&F Centre Craiglockhart
+======= SWC_Alva Street
+SWC_Alva Street,CORP,10.189.88.8,WS-C2950G-48-EI,C-1449-2950-SW-01,,00:0C:85:8D:C9:80,FOC0713X07V
+======= SWC_Craigentinny Social Work Centre (POP - CGY) - May be closing
+SWC_Craigentinny Social Work Centre (POP - CGY) - May be closing,CORP,10.161.4.8,WS-C2950G-48-EI,C-0167-SW-2950-01,,00:11:20:08:9A:40,FOC0817X0GP
+SWC_Craigentinny Social Work Centre (POP - CGY) - May be closing,CORP,10.161.4.9,WS-C2950G-48-EI,C-0167-SW-2950-02,,00:0F:90:C4:2E:40,FOC0814X27K
+======= SWC_Muirhouse Crescent (POP - MUC) 34 Muirhouse Crescent
+SWC_Muirhouse Crescent (POP - MUC) 34 Muirhouse Crescent,CORP,10.153.4.8,,C-0171-SW-2960-01,Unknown,9C:AF:CA:59:6E:80,
+======= SWC_Muirhouse Voice
+======= SWC_NewKirkgate
+SWC_NewKirkgate,CORP,10.163.4.8,WS-C3548-XL-EN,New_Kirkgate,,00:09:43:6E:E3:80,FOC0610W1D1
+======= SWC_Oxgangs Social Work
+======= SWC_St Johns House Social Work Centre (POP - SJH)
+SWC_St Johns House Social Work Centre (POP - SJH),CORP,10.163.8.8,,,Unknown,,
+SWC_St Johns House Social Work Centre (POP - SJH),CORP,10.163.8.9,WS-C3548-XL-EN,St_John's_Hse_2,,00:08:A3:2A:EF:C0,FAB0603Q0SY
+SWC_St Johns House Social Work Centre (POP - SJH),CORP,10.163.8.10,FS726T,,,,Unknown
+======= SWC_St John's House Voice Scope
+======= Tram Depot Gogarburn
+Tram Depot Gogarburn,CORP,10.138.36.8,Unknown,Unknown,Unknown,Unknown,Unknown
+Tram Depot Gogarburn,CORP,10.138.36.9,Unknown,Unknown,Unknown,Unknown,Unknown
+======= Tynecastle SAG
+Tynecastle SAG,CORP,10.137.28.8,,C-1520-SW-2960-01,Unknown,3C:CE:73:4E:53:00,
+======= Usherhall C-0344
+======= Vega House
+Vega House,CORP,10.139.36.8,Unknown,Unknown,Unknown,Unknown,Unknown
+Vega House,CORP,10.139.36.9,Unknown,Unknown,Unknown,Unknown,Unknown
+======= Viewforth Child and Family Centre
+Viewforth Child and Family Centre,CORP,10.148.8.8,,C-0189-SW-2960-01,Unknown,00:26:CA:0F:A7:80,
+======= Voice Scope for Westfield House
+Voice Scope for Westfield House,CORP,10.138.6.11,Unknown,Unknown,Unknown,Unknown,Unknown
+Voice Scope for Westfield House,CORP,10.138.6.12,Unknown,Unknown,Unknown,Unknown,Unknown
+Voice Scope for Westfield House,CORP,10.138.6.13,Unknown,Unknown,Unknown,Unknown,Unknown
+Voice Scope for Westfield House,CORP,10.138.6.14,Unknown,Unknown,Unknown,Unknown,Unknown
+Voice Scope for Westfield House,CORP,10.138.6.15,Unknown,Unknown,Unknown,Unknown,Unknown
+Voice Scope for Westfield House,CORP,10.138.6.16,Unknown,Unknown,Unknown,Unknown,Unknown
+======= Waverley Court SFCOMM_data
+======= Waverley Court CITYDEV_data
+======= Waverley Court CHILDFAM_data
+======= Waverley Court HEALTHSOC_data
+======= Waverley Court COPRSVCS_data
+======= Waverley Court FIN_data
+======= Waverley Court SPARE1_data
+======= Waverley Court SPARE2_data
+======= Waverley Court SFCOMM_voice
+======= Waverley Court CITYDEV_voice
+======= Waverley Court CHILDFAM_voice
+======= Waverley Court HEALTHSOC_voice
+======= Waverley Court COPRSVCS_voice
+======= Waverley Court FIN_voice
+======= Waverley Court SPARE1_voice
+======= Waverley Court SPARE2_voice
+======= Westburn Primary School - site id 144
+Westburn Primary School - site id 144,CORP,10.139.64.8,,C-0144-SW-2960-01,Unknown,18:EF:63:DA:10:80,
+Westburn Primary School - site id 144,CORP,10.139.64.12,Unknown,Unknown,Unknown,Unknown,Unknown
+======= Westfield House Social Work
+Westfield House Social Work,CORP,10.138.4.8,,,Unknown,,
+Westfield House Social Work,CORP,10.138.4.9,WS-C2950G-48-EI,C-0176-SW-2950-02,,00:0B:BE:FB:F2:00,FOC0652X2M4
+Westfield House Social Work,CORP,10.138.4.10,WS-C2950G-48-EI,C-0176-SW-2950-03,,00:0F:90:C4:40:40,FOC0814W2AP
+Westfield House Social Work,CORP,10.138.4.11,Unknown,Unknown,Unknown,Unknown,Unknown
+Westfield House Social Work,CORP,10.138.4.14,Unknown,Unknown,Unknown,Unknown,Unknown
+Westfield House Social Work,CORP,10.138.4.15,Unknown,Unknown,Unknown,Unknown,Unknown
+Westfield House Social Work,CORP,10.138.4.16,Unknown,Unknown,Unknown,Unknown,Unknown
+======= WHEC Corporate CUG
+======= WHEC - Corporate CUG - Voice
+======= Woods Centre
+Woods Centre,CORP,10.139.48.8,,C-0433-SW-2960-01,Unknown,30:37:A6:AC:A9:00,

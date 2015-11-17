@@ -1,0 +1,80 @@
+Waverley Court Management VLAN,CORP,10.191.1.101,WS-C3750G-48PS-S,C-1485-VIRT-CAB01,Unknown,00:19:06:6D:BC:00,FOC1031Y39P
+Trying telnet on 10.191.1.102
+It's a Cisco
+Waverley Court Management VLAN,CORP,10.191.1.102,WS-C3750G-48PS-S,C-1485-VIRT-CAB02,Unknown,00:19:06:2E:02:80,FOC1031Y3J2
+Trying telnet on 10.191.1.103
+It's a Cisco
+Waverley Court Management VLAN,CORP,10.191.1.103,WS-C3750G-48PS-S,C-1485-VIRT-CAB03,Unknown,00:19:06:CC:56:80,FOC1031Y39R
+Trying telnet on 10.191.1.104
+It's a Cisco
+Waverley Court Management VLAN,CORP,10.191.1.104,WS-C3750-48PS-S,C-1485-VIRT-CAB4,Unknown,00:18:B9:37:BF:80,CAT1028NGGD
+Trying telnet on 10.191.1.105
+It's a Cisco
+Waverley Court Management VLAN,CORP,10.191.1.105,WS-C3750-48PS-S,C-1485-VIRT-CAB05,Unknown,00:18:B9:83:0F:00,CAT1028RKG8
+Trying telnet on 10.191.1.106
+It's a Cisco
+Waverley Court Management VLAN,CORP,10.191.1.106,WS-C3750-48PS-S,C-1485-VIRT-CAB06,Unknown,00:18:B9:4B:F5:00,CAT1028NGH0
+Trying telnet on 10.191.1.107
+It's a Cisco
+Waverley Court Management VLAN,CORP,10.191.1.107,WS-C3750-48PS-S,C-1485-VIRT-CAB07,Unknown,00:18:B9:83:0C:80,CAT1028RKGF
+Trying telnet on 10.191.1.108
+It's a Cisco
+Waverley Court Management VLAN,CORP,10.191.1.108,WS-C3750-48PS-S,C-1485-VIRT-CAB08,Unknown,00:18:B9:67:A5:00,CAT1028NHGF
+Trying telnet on 10.191.1.109
+It's a Cisco
+Waverley Court Management VLAN,CORP,10.191.1.109,WS-C3750-48PS-S,C-1485-VIRT-CAB09,Unknown,00:0A:B8:EF:8C:80,CAT1027RLDW
+Trying telnet on 10.191.1.110
+It's a Cisco
+Waverley Court Management VLAN,CORP,10.191.1.110,WS-C3750-48PS-S,C-1485-VIRT-CAB10,Unknown,00:18:B9:2A:42:00,CAT1028NHB6
+Trying telnet on 10.191.1.111
+It's a Cisco
+Waverley Court Management VLAN,CORP,10.191.1.111,WS-C3750-48PS-S,C-1485-VIRT-CAB11,Unknown,00:18:B9:4B:F4:00,CAT1028NGH2
+Trying telnet on 10.191.1.112
+It's a Cisco
+Waverley Court Management VLAN,CORP,10.191.1.112,WS-C3750-48PS-S,C-1485-VIRT-CAB12,Unknown,00:18:B9:42:55:80,CAT1028NGK3
+Trying telnet on 10.191.1.113
+It's a Cisco
+Waverley Court Management VLAN,CORP,10.191.1.113,WS-C3750-48PS-S,C-1485-VIRT-CAB13,Unknown,00:18:B9:36:CE:80,CAT1028NH3W
+Trying telnet on 10.191.1.114
+It's a Cisco
+Waverley Court Management VLAN,CORP,10.191.1.114,WS-C3750-48PS-S,C-1485-VIRT-CAB14,Unknown,00:18:B9:83:02:80,CAT1028RKHE
+Trying telnet on 10.191.1.115
+It's a Cisco
+Waverley Court Management VLAN,CORP,10.191.1.115,WS-C3750-48PS-S,C-1485-VIRT-CAB15,Unknown,00:18:B9:42:18:00,CAT1028NGDL
+Trying telnet on 10.191.1.116
+It's a Cisco
+Waverley Court Management VLAN,CORP,10.191.1.116,WS-C3750-48PS-S,C-1485-VIRT-CAB16,Unknown,00:18:B9:60:F4:00,CAT1028NHH3
+Trying telnet on 10.191.1.117
+It's a Cisco
+Waverley Court Management VLAN,CORP,10.191.1.117,WS-C3750-48PS-S,C-1485-VIRT-CAB17,Unknown,00:18:B9:42:3B:00,CAT1028NGGZ
+Trying telnet on 10.191.1.118
+It's a Cisco
+Waverley Court Management VLAN,CORP,10.191.1.118,WS-C3750-48PS-S,C-1485-VIRT-CAB18,Unknown,00:18:B9:42:2A:80,CAT1028NGGH
+Trying telnet on 10.191.1.119
+It's a Cisco
+Waverley Court Management VLAN,CORP,10.191.1.119,WS-C3750-48PS-S,C-1485-VIRT-CAB19,Unknown,00:18:B9:42:40:80,CAT1028NGG8
+Trying telnet on 10.191.1.120
+It's a Cisco
+Waverley Court Management VLAN,CORP,10.191.1.120,WS-C3750-48PS-S,C-1485-VIRT-CAB20,Unknown,00:0A:B8:AB:0A:00,CAT1028RKFX
+Trying telnet on 10.191.1.121
+It's a Cisco
+Waverley Court Management VLAN,CORP,10.191.1.121,WS-C3750-48PS-S,C-1485-VIRT-CAB21,Unknown,00:18:B9:4B:BA:80,CAT1028NGJ4
+======= Waverley Court Management VLAN
+Trying telnet on 10.191.127.128
+Waverley Court Management VLAN,CORP,10.191.127.128,Unknown,Unknown,Unknown,Unknown,Unknown
+Trying telnet on 10.191.127.129
+Waverley Court Management VLAN,CORP,10.191.127.129,Unknown,Unknown,Unknown,Unknown,Unknown
+Trying telnet on 10.191.127.130
+Waverley Court Management VLAN,CORP,10.191.127.130,Unknown,Unknown,Unknown,Unknown,Unknown
+Trying telnet on 10.191.127.131
+Waverley Court Management VLAN,CORP,10.191.127.131,Unknown,Unknown,Unknown,Unknown,Unknown
+Trying telnet on 10.191.127.132
+Waverley Court Management VLAN,CORP,10.191.127.132,Unknown,Unknown,Unknown,Unknown,Unknown
+Trying telnet on 10.191.127.133
+Waverley Court Management VLAN,CORP,10.191.127.133,Unknown,Unknown,Unknown,Unknown,Unknown
+Trying telnet on 10.191.127.134
+Waverley Court Management VLAN,CORP,10.191.127.134,Unknown,Unknown,Unknown,Unknown,Unknown
+Trying telnet on 10.191.127.143
+Waverley Court Management VLAN,CORP,10.191.127.143,Unknown,Unknown,Unknown,Unknown,Unknown
+Administrators-MacBook-Pro:Desktop fraser$ 
+

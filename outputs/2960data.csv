@@ -1,0 +1,207 @@
+Hello World
+school,prefix,ip,model,sysname,location,MAC,serial
+Using 2960help.csv
+======= Assembley Rooms Corporate
+Trying 10.189.140.8
+Assembley Rooms Corporate,CORP,10.189.140.8,WS-C2960-24PC-L,C-0345-SW-2960-01,Unknown,5C:50:15:35:D4:80,FCQ1611Y4E0
+Trying 10.189.140.9
+Assembley Rooms Corporate,CORP,10.189.140.9,WS-C2960-24PC-L,C-0345-SW-2960-02,Unknown,5C:50:15:8C:49:80,FCQ1611Y47T
+Trying 10.189.140.10
+Trying 10.189.140.11
+Trying 10.189.140.12
+Trying 10.189.140.13
+Trying 10.189.140.14
+Trying 10.189.140.15
+======= Bonnington ATC 200 Bonnington Rd
+Trying 10.163.48.8
+Bonnington ATC 200 Bonnington Rd,CORP,10.163.48.8,WS-C2960-48PST-L,C-0197-SW-2960-01,Unknown,B8:62:1F:AA:0F:00,FOC1526X2QL
+Trying 10.163.48.9
+Bonnington ATC 200 Bonnington Rd,CORP,10.163.48.9,WS-C2960-48PST-L,C-0197-SW-2960-02,Unknown,64:AE:0C:75:A8:80,FOC1531X2LY
+Trying 10.163.48.10
+Trying 10.163.48.11
+Trying 10.163.48.12
+Trying 10.163.48.13
+Trying 10.163.48.14
+Trying 10.163.48.15
+======= CEC Services for Communities 13 Newtoft St
+Trying 10.147.52.8
+CEC Services for Communities 13 Newtoft St,CORP,10.147.52.8,WS-C2960-48TC-L,C-1519-SW-2960-01,Unknown,00:26:52:53:2C:80,FOC1326V57A
+Trying 10.147.52.9
+Trying 10.147.52.10
+Trying 10.147.52.11
+Trying 10.147.52.12
+Trying 10.147.52.13
+Trying 10.147.52.14
+Trying 10.147.52.15
+======= Craighall Day Centre Granton
+Trying 10.164.20.8
+Craighall Day Centre Granton,CORP,10.164.20.8,WS-C2960-24TC-S,C-0202-SW-2960-01,Unknown,00:26:CA:0F:B1:00,FOC1330Y43G
+Trying 10.164.20.9
+Trying 10.164.20.10
+Trying 10.164.20.11
+Trying 10.164.20.12
+Trying 10.164.20.13
+Trying 10.164.20.14
+Trying 10.164.20.15
+======= Drumbrae Data VLAN
+Trying 10.154.32.8
+Drumbrae Data VLAN,CORP,10.154.32.8,WS-C2960-48PST-L,C-1530-SW-2960-01,Unknown,A0:CF:5B:82:A6:00,FOC1531X29S
+Trying 10.154.32.9
+Drumbrae Data VLAN,CORP,10.154.32.9,WS-C2960-48PST-L,C-1530-SW-2960-02,Unknown,24:B6:57:58:94:80,FOC1542X2D4
+Trying 10.154.32.10
+Trying 10.154.32.11
+Trying 10.154.32.12
+Trying 10.154.32.13
+Trying 10.154.32.14
+Trying 10.154.32.15
+======= Edinburgh Family Project (ex-Ferniehill YPC) Liberton
+Trying 10.147.36.8
+Edinburgh Family Project (ex-Ferniehill YPC) Liberton,CORP,10.147.36.8,WS-C2960-24TC-S,C-0221-SW-2960-01,Unknown,00:26:98:CF:48:00,FOC1330Y42M
+Trying 10.147.36.9
+Trying 10.147.36.10
+Trying 10.147.36.11
+Trying 10.147.36.12
+Trying 10.147.36.13
+Trying 10.147.36.14
+Trying 10.147.36.15
+======= Firhill Respite Unit [50]
+Trying 10.145.8.8
+Firhill Respite Unit [50],CORP,10.145.8.8,WS-C2960-24TC-L,C-1521-SW-2960-01,Unknown,3C:DF:1E:D6:01:00,FOC1344Y0JW
+Trying 10.145.8.9
+Trying 10.145.8.10
+Trying 10.145.8.11
+Trying 10.145.8.12
+Trying 10.145.8.13
+Trying 10.145.8.14
+Trying 10.145.8.15
+======= Jewel House Residential Centre
+Trying 10.162.36.8
+Jewel House Residential Centre,CORP,10.162.36.8,WS-C2960-24TC-S,C-0250-SW-2960-01,Unknown,30:37:A6:AC:9E:00,FOC1405Y5FK
+Trying 10.162.36.9
+Trying 10.162.36.10
+Trying 10.162.36.11
+Trying 10.162.36.12
+Trying 10.162.36.13
+Trying 10.162.36.14
+Trying 10.162.36.15
+======= Kings Inch Home for older people
+Trying 10.147.60.8
+Kings Inch Home for older people,CORP,10.147.60.8,WS-C2960-24TC-S,C-1523-SW-2960-01,Unknown,10:8C:CF:23:40:00,FOC1448V05X
+Trying 10.147.60.9
+Kings Inch Home for older people,CORP,10.147.60.9,WS-C2960-24TC-S,C-1523-SW-2960-02,Unknown,10:8C:CF:23:68:80,FOC1448V062
+Trying 10.147.60.10
+Kings Inch Home for older people,CORP,10.147.60.10,WS-C2960-24TC-S,C-1523-SW-2960-03,Unknown,10:8C:CF:64:DB:80,FOC1448W02V
+Trying 10.147.60.11
+Trying 10.147.60.12
+Trying 10.147.60.13
+Trying 10.147.60.14
+Trying 10.147.60.15
+======= Lauriston Castle
+Trying 10.154.40.8
+Lauriston Castle,CORP,10.154.40.8,WS-C2960C-8PC-L,C-346-SW-2960-01,Unknown,D0:C7:89:4D:C5:80,FOC1719Y6K1
+Trying 10.154.40.9
+Trying 10.154.40.10
+Trying 10.154.40.11
+Trying 10.154.40.12
+Trying 10.154.40.13
+Trying 10.154.40.14
+Trying 10.154.40.15
+======= Moredun YPC Liberton
+Trying 10.147.44.8
+Moredun YPC Liberton,CORP,10.147.44.8,WS-C2960-24TC-S,C-0223-SW-2960-01,Unknown,00:26:CA:0E:9A:80,FOC1330Y43F
+Trying 10.147.44.9
+Trying 10.147.44.10
+Trying 10.147.44.11
+Trying 10.147.44.12
+Trying 10.147.44.13
+Trying 10.147.44.14
+Trying 10.147.44.15
+======= Museum Collection Office
+Trying 10.189.156.8
+Museum Collection Office,CORP,10.189.156.8,WS-C2960C-8PC-L,C-341-SW-2960-01,Unknown,D0:C7:89:55:63:00,FOC1719Y6KV
+Trying 10.189.156.9
+Trying 10.189.156.10
+Trying 10.189.156.11
+Trying 10.189.156.12
+Trying 10.189.156.13
+Trying 10.189.156.14
+Trying 10.189.156.15
+======= Oaklands
+Trying 10.148.12.8
+Oaklands,CORP,10.148.12.8,WS-C2960-24TC-S,C-1334-SW-2960-01,Unknown,30:37:A6:AC:C0:80,FOC1405V59C
+Trying 10.148.12.9
+Trying 10.148.12.10
+Trying 10.148.12.11
+Trying 10.148.12.12
+Trying 10.148.12.13
+Trying 10.148.12.14
+Trying 10.148.12.15
+======= Risk Factory
+Trying 10.140.4.8
+Risk Factory,CORP,10.140.4.8,WS-C2960+24PC-L,C-1489-SW-2960-01,Unknown,E8:ED:F3:90:62:00,FCQ1733X2NQ
+Trying 10.140.4.9
+Trying 10.140.4.10
+Trying 10.140.4.11
+Trying 10.140.4.12
+Trying 10.140.4.13
+Trying 10.140.4.14
+Trying 10.140.4.15
+======= Sheriff Court
+Trying 10.189.120.8
+Sheriff Court,CORP,10.189.120.8,WS-C2960-24TC-S,C-1231-SW-2960-01,Unknown,30:37:A6:C4:7A:00,FOC1405V56W
+Trying 10.189.120.9
+Trying 10.189.120.10
+Trying 10.189.120.11
+Trying 10.189.120.12
+Trying 10.189.120.13
+Trying 10.189.120.14
+Trying 10.189.120.15
+======= Southhouse YPC Liberton
+Trying 10.147.48.8
+Southhouse YPC Liberton,CORP,10.147.48.8,WS-C2960-24TC-S,C-0226-SW-2960-01,Unknown,00:26:CA:0F:93:00,FOC1330Y3XF
+Trying 10.147.48.9
+Trying 10.147.48.10
+Trying 10.147.48.11
+Trying 10.147.48.12
+Trying 10.147.48.13
+Trying 10.147.48.14
+Trying 10.147.48.15
+======= Viewforth Child and Family Centre
+Trying 10.148.8.8
+Viewforth Child and Family Centre,CORP,10.148.8.8,WS-C2960-24TC-S,C-0189-SW-2960-01,Unknown,00:26:CA:0F:A7:80,FOC1330Y431
+Trying 10.148.8.9
+Trying 10.148.8.10
+Trying 10.148.8.11
+Trying 10.148.8.12
+Trying 10.148.8.13
+Trying 10.148.8.14
+Trying 10.148.8.15
+======= Voice Scope for Westfield House
+Trying 10.138.6.8
+Trying 10.138.6.9
+Trying 10.138.6.10
+Trying 10.138.6.11
+Voice Scope for Westfield House,CORP,10.138.6.11,Unknown,Unknown,Unknown,Unknown,Unknown
+Trying 10.138.6.12
+Voice Scope for Westfield House,CORP,10.138.6.12,Unknown,Unknown,Unknown,Unknown,Unknown
+Trying 10.138.6.13
+Voice Scope for Westfield House,CORP,10.138.6.13,Unknown,Unknown,Unknown,Unknown,Unknown
+Trying 10.138.6.14
+Voice Scope for Westfield House,CORP,10.138.6.14,Unknown,Unknown,Unknown,Unknown,Unknown
+Trying 10.138.6.15
+Voice Scope for Westfield House,CORP,10.138.6.15,Unknown,Unknown,Unknown,Unknown,Unknown
+======= Westfield House Social Work
+Trying 10.138.4.8
+Westfield House Social Work,CORP,10.138.4.8,,,Unknown,,
+Trying 10.138.4.9
+Westfield House Social Work,CORP,10.138.4.9,WS-C2950G-48-EI,C-0176-SW-2950-02,,00:0B:BE:FB:F2:00,FOC0652X2M4
+Trying 10.138.4.10
+Westfield House Social Work,CORP,10.138.4.10,WS-C2950G-48-EI,C-0176-SW-2950-03,,00:0F:90:C4:40:40,FOC0814W2AP
+Trying 10.138.4.11
+Westfield House Social Work,CORP,10.138.4.11,WS-C2950G-24-EI,C-0176-SW-2950-04,,00:14:69:96:90:00,FCZ0922X1KH
+Trying 10.138.4.12
+Trying 10.138.4.13
+Trying 10.138.4.14
+Westfield House Social Work,CORP,10.138.4.14,Unknown,Unknown,Unknown,Unknown,Unknown
+Trying 10.138.4.15
+Westfield House Social Work,CORP,10.138.4.15,Unknown,Unknown,Unknown,Unknown,Unknown

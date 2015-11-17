@@ -1,0 +1,752 @@
+Hello World
+Using goldhelp.csv
+=======
+Abbeyhill Primary School,ABBE,10.225.16.70,FS750T2, Abbeyhill_Switch_1, Head_Teacher_Room, e0-46-9a-2a-04-14
+Abbeyhill Primary School,ABBE,10.225.16.71,FS726T, Abbeyhill PS, Infant Block, 00-14-6c-ea-c1-47
+=======
+Balgreen Primary School,BALG,10.201.20.70,GS724T,Unknown,Unknown,Unknown
+Balgreen Primary School,BALG,10.201.20.71,FS726T, Balgreen PS, Main Cab 1_2, 00-24-b2-5e-fd-16
+Balgreen Primary School,BALG,10.201.20.72,FS726T, Balgreen PS, Gym Cab 2_1, 00-24-b2-5e-fc-fb
+=======
+Blackhall Primary School,BLAC,10.217.12.70,FS750T2, , Blackhall Primary 1, 00-22-3f-e1-67-67
+Blackhall Primary School,BLAC,10.217.12.71,FS726T, , Blackhall Primary 2, 00-14-6c-ec-a9-7f
+Blackhall Primary School,BLAC,10.217.12.72,FS726T, , Blackhall Primary 3, 00-14-6c-eb-a4-f4
+Blackhall Primary School,BLAC,10.217.12.74,FS726T, blackhall primary, temp unit, 00-22-3f-0a-f8-5d
+=======
+Bonaly Primary School,BONA,10.219.32.70,GS724T,Unknown,Unknown,Unknown
+Bonaly Primary School,BONA,10.219.32.71,FS750T2, Darroch Campus SW2, Main Comms Room, 10-0d-7f-b7-72-4e
+Bonaly Primary School,BONA,10.219.32.72,FS750T2, Darroch Campus SW3, Main Comms Room, 10-0d-7f-b7-72-0e
+Bonaly Primary School,BONA,10.219.32.73,FS750T2, Darroch Campus SW4, Main Comms Room, 10-0d-7f-b7-72-2e
+=======
+Bonnington Primary School,BONN,10.227.12.70,FS726T, Taobh na Pairce SW1, Bonnington Gaelic, 00-14-6c-ea-c1-37
+Bonnington Primary School,BONN,10.227.12.71,FS750T2, Taobh na Pairce, Bonnington road 2nd , 10-0d-7f-b7-72-66
+Bonnington Primary School,BONN,10.227.12.72,FS750T2, Taobh na Pairce, Bonnington road 2fl , 10-0d-7f-b7-72-46
+=======
+Broomhouse Primary School,BROO,10.252.4.70,FS726T, , Broomhouse 1-1, 00-14-6c-ea-c1-31
+Broomhouse Primary School,BROO,10.252.4.71,FS726T, , Broomhouse 1-2, 00-14-6c-ea-c1-1f
+Broomhouse Primary School,BROO,10.252.4.72,FS726T, , Broomhouse 1-3, 00-14-6c-ea-c1-36
+=======
+Broughton Primary School,BROU,10.254.16.70,FS726T, Broughton PS 1_1 , Main Cab , 00-18-4d-30-28-e0
+Broughton Primary School,BROU,10.254.16.71,FS750T2, Broughton PS 1_2, Main Cab, 00-22-3f-e1-67-5e
+Broughton Primary School,BROU,10.254.16.72,FS726T, Broughton PS 2_1, Nursery, 00-18-4d-2d-1f-93
+Broughton Primary School,BROU,10.254.16.73,FS750T2, broughton ps, annexe, 04-a1-51-6b-c6-52
+=======
+Brunstane Primary School,BRUS,10.226.12.70,FS750T2, Bruntstane PS, Main CAB, e0-91-f5-1f-82-54
+=======
+Bruntsfield Primary School,BRUF,10.219.16.70,FS750T2, , Bruntsfield PS 1, c0-3f-0e-44-95-6e
+Bruntsfield Primary School,BRUF,10.219.16.71,FS750T2, Bruntsfield 2, bruntsfield, 84-1b-5e-91-a9-12
+=======
+Buckstone Primary School,BUCK,10.210.4.70,GS724T,Unknown,Unknown,Unknown
+Buckstone Primary School,BUCK,10.210.4.71,FS750T2, Buckstone PS, Medical Room 2, 00-1e-2a-d6-fc-48
+Buckstone Primary School,BUCK,10.210.4.72,FS750T2, Buckstone PS, Comms Cupboard, 00-1e-2a-d6-fc-2e
+Buckstone Primary School,BUCK,10.210.4.73,FS726T, Buckstone PS, Nursery 1, 00-24-b2-5e-fd-2a
+=======
+=======
+=======
+Carrick Knowe Primary School,CARR,10.202.28.70,FS750T2, Carrick Knowe PS 1_1, Main Cab, 00-1e-2a-d4-e8-d3
+Carrick Knowe Primary School,CARR,10.202.28.71,FS750T2, Carrick Knowe PS, Main Cab, e0-91-f5-1f-82-26
+Carrick Knowe Primary School,CARR,10.202.28.72,FS726T, Carrick Knowe PS 2_1, Computer Suite, 00-18-4d-2d-1f-95
+Carrick Knowe Primary School,CARR,10.202.28.73,FS726T, Carrick Knowe PS 3_1, Cab in Hut, 00-18-4d-2d-1f-79
+Carrick Knowe Primary School,CARR,10.202.28.74,FS726T, Carrick Knowe PS 4_1, Nursery, 00-18-4d-2d-20-97
+=======
+Castleview  Primary School,CAST,10.225.56.70,FS750T2, , Castleview PS Cab1-1, e0-91-f5-95-90-44
+Castleview  Primary School,CAST,10.225.56.71,FS750T2, , Castleview PS Cab1-2, 00-14-6c-c3-9e-e3
+Castleview  Primary School,CAST,10.225.56.72,FS750T2, , Castleview PS Cab1-3, 00-14-6c-c3-9e-f6
+=======
+Clermiston Primary School,CLER,10.218.16.70,FS726T, Clermiston PS 1_1, Main Cab, 00-18-4d-2d-1f-90
+Clermiston Primary School,CLER,10.218.16.71,FS750T2, Clermiston PS 1_2, Main Cab, 00-22-3f-de-09-65
+Clermiston Primary School,CLER,10.218.16.73,FS726T, Clermiston PS 3_1, Nursery, 00-18-4d-2e-21-1b
+=======
+Clovenstone Primary School,CLOV,10.203.24.70,FS726T, , Clovenstone PS 1, 00-18-4d-2e-21-3e
+Clovenstone Primary School,CLOV,10.203.24.71,FS750T2, , Clovenstone PS 2, 00-22-3f-ea-b2-09
+=======
+Colinton Primary School,COLI,10.209.16.70,FS750T2, Colinton PS 1_1, Main Cab, 00-1e-2a-d6-fc-2b
+Colinton Primary School,COLI,10.209.16.71,FS726T, Colinton PS 2_1, Library, 00-18-4d-2e-22-85
+=======
+Corstorphine Primary School,CORS,10.202.32.70,FS726T, Corstorphine PS 1_1, Main Cab, 00-18-4d-2e-21-74
+Corstorphine Primary School,CORS,10.202.32.71,FS750T2, Corstorphine PS 1_2, Main Cab, 00-1e-2a-d6-fc-49
+Corstorphine Primary School,CORS,10.202.32.72,FS750T2, Corstorphine PS 1_3, Main Cab, 00-1e-2a-d6-fc-4a
+Corstorphine Primary School,CORS,10.202.32.73,FS750T2, corstorphine ext, extention, 10-0d-7f-b7-71-4e
+=======
+Craigentinny Primary School,CRAT,10.225.20.70,FS750T2,, Main Cab, 10-0d-7f-b7-71-56
+Craigentinny Primary School,CRAT,10.225.20.71,FS750T2, Craigentinney PS 1_2, Main Cab, 00-1e-2a-d4-ea-54
+=======
+Craiglockhart Primary School,CRAL,10.201.24.70,FS726T, Craiglockart PS, Main Comms Cab, 00-14-6c-ea-c1-30
+Craiglockhart Primary School,CRAL,10.201.24.71,FS726T, Craiglockhart PS 1_2, Main Cab, 00-24-b2-5e-f9-57
+Craiglockhart Primary School,CRAL,10.201.24.72,FS750T2, Craiglockhart PS, Main Cab, c0-3f-0e-43-b2-00
+=======
+Craigour Park Primary School,CRAO,10.211.44.70,FS726T, Craigour PS 1_1, Main Comms Cab, 00-14-6c-ea-af-08
+Craigour Park Primary School,CRAO,10.211.44.71,FS726T, Craigour PS 1_2, Main Cab, 00-24-b2-5e-fd-bd
+Craigour Park Primary School,CRAO,10.211.44.72,FS726T, Craigour PS 1_3, Main Cab, 00-24-b2-5e-fd-be
+Craigour Park Primary School,CRAO,10.211.44.73,FS750T2, craigour primary, coms cab, 10-0d-7f-bd-90-f6
+Craigour Park Primary School,CRAO,10.211.44.74,FS750T2, craigour annexe, annexe cpd, 04-a1-51-6b-c0-f2
+=======
+Craigroyston Primary School,CRAR,10.217.32.70,FS726T, Craigroyston PS 1_1, Main Cab (room 049), 00-14-6c-eb-a4-fb
+Craigroyston Primary School,CRAR,10.217.32.71,FS750T2,, Main Cab (room 049), e0-91-f5-1f-82-66
+=======
+Cramond Primary School,CRAM,10.218.20.70,FS750T2, crammond primary, comms cab 1, 10-0d-7f-b2-a9-15
+=======
+=======
+Dalmeny Primary School,DALM,10.218.24.70,FS750T2, Dalmeny PS, Main Cab, e0-91-f5-20-f4-40
+Dalmeny Primary School,DALM,10.218.24.71,FS726T, DalmenyNETSW2, Nursery, 00-24-b2-5e-fd-00
+=======
+Dalry Primary School,DALR,10.201.28.70,FS750T2, , Dalry Primary 1, 00-22-3f-ea-b2-08
+Dalry Primary School,DALR,10.201.28.71,FS750T2, , Dalry Primary 2, e0-91-f5-95-8f-1e
+=======
+Davidson's Mains Primary School,DAVI,10.218.28.70,GS724T,Unknown,Unknown,Unknown
+Davidson's Mains Primary School,DAVI,10.218.28.71,FS750T2, DMains PS 1_2, Main Cab, 00-1e-2a-d6-fc-2f
+Davidson's Mains Primary School,DAVI,10.218.28.72,FS750T2, DMains PS 1_3, Main Cab, 00-1e-2a-d6-fc-30
+Davidson's Mains Primary School,DAVI,10.218.28.73,FS726T, DMains PS 2_1, Cab 2, 00-24-b2-5e-fc-c6
+Davidson's Mains Primary School,DAVI,10.218.28.74,FS726T, DMains PS 3_1, Cab 3 (Out Building), 00-24-b2-5e-fd-11
+Davidson's Mains Primary School,DAVI,10.218.28.75,FS726T, DMains PS 4_1, Nursery, 00-24-b2-5e-fd-b0
+=======
+Dean Park Primary School,DEAN,10.203.32.70,GS724T,Unknown,Unknown,Unknown
+Dean Park Primary School,DEAN,10.203.32.71,FS726T, Dean Park PS, Main Cab, 00-24-b2-5e-fc-e2
+Dean Park Primary School,DEAN,10.203.32.72,FS726T, Dean Park PS, Computer Suite, 00-24-b2-5e-fd-28
+Dean Park Primary School,DEAN,10.203.32.73,FS726T, Dean Park PS, P2 Cupboard, 00-24-b2-5e-fc-f2
+Dean Park Primary School,DEAN,10.203.32.74,FS726T, Dean Park PS, Nursery, 00-24-b2-5e-fc-de
+Dean Park Primary School,DEAN,10.203.32.75,GS724T,Unknown,Unknown,Unknown
+=======
+=======
+Duddingston Primary School,DUDD,10.226.16.70,GS724T,Unknown,Unknown,Unknown
+Duddingston Primary School,DUDD,10.226.16.71,FS726T, Duddingston PS, Main Cab, 00-24-b2-5e-fc-e1
+Duddingston Primary School,DUDD,10.226.16.72,FS750T2, Duddingston PS, ICT Room, 00-22-3f-f1-51-83
+Duddingston Primary School,DUDD,10.226.16.73,FS726T, Duddingston PS, Nursery, 00-24-b2-5e-fd-22
+=======
+East Craigs Primary School,EAST,10.202.40.70,GS724T,Unknown,Unknown,Unknown
+East Craigs Primary School,EAST,10.202.40.71,FS750T2, East Craigs PS, Cabinet 1- Main, 10-0d-7f-bd-90-76
+East Craigs Primary School,EAST,10.202.40.72,FS726T, East Craigs PS, Cab 2, 00-24-b2-5e-fd-24
+East Craigs Primary School,EAST,10.202.40.73,FS726T, East Craigs PS, Nursery (Cab 3), 00-24-b2-5e-fd-25
+East Craigs Primary School,EAST,10.202.40.74,FS750T2, East Craigs PS, Cab 3, 00-18-4d-79-de-a9
+=======
+Echline Primary School,ECHL,10.218.32.70,FS726T, Echline PS 1, Main Cab, 00-18-4d-30-27-c1
+Echline Primary School,ECHL,10.218.32.71,FS750T2, Echline PS 2, Main Cab, 00-22-3f-e1-df-3a
+Echline Primary School,ECHL,10.218.32.72,FS750T2, Echline PS 3, ICT Suite, e0-91-f5-95-90-38
+=======
+Ferryhill Primary School,FERR,10.217.20.70,FS726T, , Ferryhill Primary 1, 00-14-6c-eb-a5-1a
+Ferryhill Primary School,FERR,10.217.20.71,FS750T2, , Ferryhill Primary 2, c0-3f-0e-44-95-96
+=======
+Flora Stevenson Primary School,FLOR,10.217.24.70,FS750T2, Flora Stevenson, Main Cab, e0-91-f5-1f-82-0a
+Flora Stevenson Primary School,FLOR,10.217.24.71,FS750T2, Flora Stevenson, Main Cab, e0-91-f5-1f-82-25
+Flora Stevenson Primary School,FLOR,10.217.24.72,FS726T, Flora Stevenson PS 3, Nursery, 00-18-4d-3a-60-a3
+Flora Stevenson Primary School,FLOR,10.217.24.73,FS726T, Flora Stevenson PS4, New Building, 00-1b-2f-af-4f-82
+=======
+Fort Nursery School,FORT,10.227.16.70,FS750T2, Fort, Main Cab, 00-22-3f-de-09-8b
+Fort Nursery School,FORT,10.227.16.71,FS726T, , Fort Primary 2, 00-18-4d-2d-20-02
+=======
+Forthview Primary School,FORV,10.217.76.70,FS750T2, Forthview PS, Main Cab, 00-22-3f-e1-dd-6a
+Forthview Primary School,FORV,10.217.76.71,FS750T2, Forthview PS, Main Cab, 00-22-3f-e1-df-19
+Forthview Primary School,FORV,10.217.76.72,FS750T2, Forthview PS, Main Cab, e0-91-f5-95-8f-ed
+=======
+Fox Covert Primary School,FOXC,10.202.64.70,FS726T, , Fox Covert PS 1-1, 00-14-6c-eb-a4-7e
+Fox Covert Primary School,FOXC,10.202.64.71,FS750T2, fox covert, janitors office, 04-a1-51-6a-46-c9
+=======
+Fox Covert RC Primary School,FOXR,10.202.44.70,FS726T, , Fox Covert RCPS, 00-14-6c-eb-a4-b2
+Fox Covert RC Primary School,FOXR,10.202.44.71,FS726T, , Fox Covert RCPS, 00-14-6c-ea-c1-34
+=======
+Gilmerton Primary School,GILM,10.211.32.70,GS724T,Unknown,Unknown,Unknown
+Gilmerton Primary School,GILM,10.211.32.71,FS726T, Gilmerton PS, Main Cab 1_2, 00-24-b2-5e-fd-ca
+Gilmerton Primary School,GILM,10.211.32.72,FS726T, Gilmerton PS, Cab 2, 00-24-b2-5e-fd-6a
+Gilmerton Primary School,GILM,10.211.32.73,FS726T, Gilmerton PS, Cab 3 Hut, 00-24-b2-5e-fc-e0
+=======
+Gracemount Primary School,GRAC,10.211.36.70,FS750T2, Gracemount PS, Main Cab, 00-22-3f-e1-de-d8
+Gracemount Primary School,GRAC,10.211.36.71,FS726T, Gracemount PS, Cab 2, 00-24-b2-5e-fd-f0
+Gracemount Primary School,GRAC,10.211.36.72,FS726T, Gracemount PS, Nursery, 00-18-4d-2e-21-11
+=======
+Granton Primary School,GRAN,10.228.8.70,GS724T,Unknown,Unknown,Unknown
+Granton Primary School,GRAN,10.228.8.71,FS750T2, Granton PS, Main Cab 1_2, 00-22-3f-de-0a-b5
+Granton Primary School,GRAN,10.228.8.72,FS750T2, Granton PS, Cab 2 (Comp Suite), 00-22-3f-e1-67-68
+Granton Primary School,GRAN,10.228.8.74,FS726T, Grantn Primary annex, temp unit, 00-18-4d-2e-21-fc
+=======
+Gylemuir Primary School,GYLE,10.202.48.70,FS750T2, Gylemuir PS, Main Cab 1_1, 00-22-3f-de-0a-b2
+Gylemuir Primary School,GYLE,10.202.48.71,FS726T, , Gylemuir PS Cab1-2, 00-14-6c-ec-a9-83
+Gylemuir Primary School,GYLE,10.202.48.72,FS750T2, , Gylemuir PS Cab2-1, 00-14-6c-31-f6-d9
+Gylemuir Primary School,GYLE,10.202.48.73,FS726T, , Gylemuir PS Cab2-2, 00-14-6c-ea-ac-1a
+Gylemuir Primary School,GYLE,10.202.48.74,FS750T2, , Gylemuir PS Cab3, 00-14-6c-31-f7-00
+=======
+Hermitage Park Primary School,HERM,10.227.20.70,FS726T, Hermitage Pk PS, Main Cab, 00-24-b2-5e-fd-0f
+Hermitage Park Primary School,HERM,10.227.20.71,FS726T, Hermitage Pk PS, Main Cabinet, 00-14-6c-ea-c1-48
+Hermitage Park Primary School,HERM,10.227.20.72,FS726T, Hermitage Pk PS, Main Can, 00-24-b2-5e-fd-33
+Hermitage Park Primary School,HERM,10.227.20.73,FS726T, Hermitage Pk PS, Main Cab, 00-24-b2-5e-fd-31
+Hermitage Park Primary School,HERM,10.227.20.74,FS726T, Hermitage Pk PS, Main Cab, 00-24-b2-5e-fd-34
+=======
+Hillwood Primary School,HILL,10.202.52.70,FS750T2, Hillwood PS, Comms Cab, 10-0d-7f-bd-91-4e
+=======
+Holy Cross RC Primary School,HOLY,10.228.12.70,FS750T2, holy cross primary, edinburgh, 10-0d-7f-b2-a8-ed
+Holy Cross RC Primary School,HOLY,10.228.12.71,FS726T, , Holycross PS Cab1-2, 00-14-6c-eb-a5-47
+Holy Cross RC Primary School,HOLY,10.228.12.72,FS750T2, holycross primary, room 14, 84-1b-5e-91-53-19
+=======
+James Gillespie's Primary School,JAME,10.212.12.70,FS750T2, JGPS, Main Cab, e0-91-f5-95-8f-c5
+James Gillespie's Primary School,JAME,10.212.12.71,FS750T2, JGPS, Main Cab, e0-91-f5-1f-82-20
+James Gillespie's Primary School,JAME,10.212.12.72,FS726T, James Gillespies PS, CAB Nursary annexe, 00-14-6c-eb-a5-15
+=======
+Juniper Green Primary School,JUNI,10.203.44.70,FS726T, JG_PS_Cab_B_01, Cab_B_Ground_Floor, 00-18-4d-30-27-f5
+Juniper Green Primary School,JUNI,10.203.44.71,FS750T2, JG_PS_Cab_B_02, Cab_B_Ground_Floor, 00-1e-2a-c9-8e-27
+Juniper Green Primary School,JUNI,10.203.44.72,FS750T2, JG_PS_Cab_B_03, Cab B-Ground Floor, 00-1e-2a-c9-8e-30
+Juniper Green Primary School,JUNI,10.203.44.73,FS750T2, JG_PS_Cab_B_04, Cab B-Ground Floor, 00-1e-2a-bc-16-00
+Juniper Green Primary School,JUNI,10.203.44.74,FS750T2, JG_PS_Cab_A_01, Cab_A_First_Floor, 00-1e-2a-c9-8e-2e
+Juniper Green Primary School,JUNI,10.203.44.75,FS750T2, JG_PS_Cab_A_02, Cab_A_First_Floor, 00-1e-2a-c9-8d-e7
+Juniper Green Primary School,JUNI,10.203.44.76,FS750T2, JG_PS_Cab_A_03, Cab_A_First_Floor, 00-1e-2a-c9-8e-0e
+Juniper Green Primary School,JUNI,10.203.44.77,FS750T2, JG_PS_Cab_B_05, Cab_B Ground Floor, 00-1e-2a-bc-15-41
+=======
+Kirkliston Primary School,KIRK,10.202.56.70,FS726T, , Kirkliston PS Cab1-1, 00-14-6c-ec-a9-7e
+Kirkliston Primary School,KIRK,10.202.56.71,FS750T2, , Kirkliston PS Cab1-2, c0-3f-0e-44-95-8b
+Kirkliston Primary School,KIRK,10.202.56.72,FS726T, , Kirkliston PS Cab2, 00-14-6c-eb-a4-c0
+=======
+Leith Primary School,LEIP,10.227.24.70,FS750T2, Leith PS , Main Cab , 00-22-3f-de-0a-ab
+Leith Primary School,LEIP,10.227.24.71,FS750T2,, computer suite, 10-0d-7f-b2-a7-45
+=======
+Leith Walk Primary School,LEIW,10.254.20.70,FS726T, Leith Walk PS, Main Cab, 00-24-b2-5e-fd-fc
+Leith Walk Primary School,LEIW,10.254.20.71,FS750T2, Leith Walk PS, Main Cab, 00-22-3f-de-09-b9
+=======
+Liberton Primary School,LIBE,10.211.40.70,FS750T2, Liberton Prim cab1, cab 1, 4c-60-de-68-bd-c2
+Liberton Primary School,LIBE,10.211.40.71,FS726T, , Liberton PS 2, 00-18-4d-2e-25-d1
+Liberton Primary School,LIBE,10.211.40.72,FS750T2, , Liberton ICT Suite, 00-22-3f-ea-b1-88
+Liberton Primary School,LIBE,10.211.40.73,FS750T2, liberton ps cab 2, liberton ps, 4c-60-de-68-bd-ba
+Liberton Primary School,LIBE,10.211.40.74,FS726T, liberton primary, inch park, 00-24-b2-5e-fd-71
+=======
+=======
+Longstone Primary School,LONG,10.252.8.70,FS726T, Longstone_PS_01, Technology Cupboard, 00-18-4d-2e-21-1c
+Longstone Primary School,LONG,10.252.8.71,FS750T2, Longstone_PS_02, Technology Cupboard, e0-91-f5-20-f4-3d
+Longstone Primary School,LONG,10.252.8.72,FS726T, Longstone_PS_03, Nursery, 00-18-4d-3a-62-74
+=======
+Lorne Primary School,LORN,10.227.28.70,Unknown,Unknown,Unknown,Unknown
+=======
+Murrayburn Primary School,MURR,10.203.48.70,GS724T,Unknown,Unknown,Unknown
+Murrayburn Primary School,MURR,10.203.48.71,FS750T2, Murrayburn PS, Main Cab, 00-1e-2a-cd-6d-62
+=======
+Nether Currie Primary School,NETH,10.203.52.70,FS726T, Nether Currie PS, Main Cab 1_1, 00-24-b2-5e-fd-ba
+Nether Currie Primary School,NETH,10.203.52.71,FS726T, Nether Currie PS, Main Cab 1_2, 00-24-b2-5e-fd-c2
+Nether Currie Primary School,NETH,10.203.52.72,FS726T, Nether Currie PS, Main Cab 1_3, 00-24-b2-5e-fd-bb
+Nether Currie Primary School,NETH,10.203.52.73,FS726T, Nether Currie PS, Cab 2_1, 00-24-b2-5e-fd-b2
+=======
+Newcraighall Primary School,NEWC,10.226.28.70,FS750T2, Newcraighall PS, Main Cab, 00-22-3f-de-09-a5
+=======
+Niddrie Mill Primary School,NIDD,10.226.32.70,GS724T,Unknown,Unknown,Unknown
+Niddrie Mill Primary School,NIDD,10.226.32.71,FS726T, NM_Main_02, Main Comms Cab, 00-14-6c-ea-c1-2b
+Niddrie Mill Primary School,NIDD,10.226.32.72,FS750T2, NM_Ground_01, Niddrie Mills Ground, 00-1e-2a-39-bd-f0
+Niddrie Mill Primary School,NIDD,10.226.32.73,FS726T, NM_Ground_02, Niddrie Mills Ground, 00-14-6c-ea-c1-2a
+Niddrie Mill Primary School,NIDD,10.226.32.74,FS750T2, niddrie mills prima, ist floor comms cab, 10-0d-7f-b2-cd-25
+Niddrie Mill Primary School,NIDD,10.226.32.75,FS750T2, NM_First_02, NM First Floor Cab, 00-1e-2a-39-bd-d3
+Niddrie Mill Primary School,NIDD,10.226.32.76,FS750T2, NM_First_03, NM First Floor Cab, 00-1e-2a-39-bd-fa
+Niddrie Mill Primary School,NIDD,10.226.32.77,FS750T2, NM_Second_01, NM Second Floor, 00-1e-2a-39-bd-f6
+=======
+Oxgangs Primary School,OXGA,10.209.32.70,FS726T, Oxgangs PS, Main Cab 1_1, 00-24-b2-5e-fc-ec
+Oxgangs Primary School,OXGA,10.209.32.71,FS726T, Oxgangs PS, Main Cab 1_2, 00-24-b2-5e-fc-ed
+Oxgangs Primary School,OXGA,10.209.32.72,FS726T, Oxgangs PS, Main Cab 1_3, 00-24-b2-5e-fc-ee
+=======
+Parson's Green Primary School,PARS,10.225.24.70,GS724T,Unknown,Unknown,Unknown
+Parson's Green Primary School,PARS,10.225.24.71,FS726T, Parsons_Green_PS, Main_Cab_1_2, 00-24-b2-5e-fd-b9
+Parson's Green Primary School,PARS,10.225.24.72,FS726T, Parsons_Green_PS, Main_Cab_1-3, 00-24-b2-5e-fd-b7
+Parson's Green Primary School,PARS,10.225.24.73,FS726T, Pasrons_Green_PS, Nursery, 00-24-b2-5e-fd-15
+=======
+=======
+Pirniehall Primary School,PIRN,10.217.68.70,FS726T, , Pirniehall Primary 1, 00-14-6c-eb-a5-25
+Pirniehall Primary School,PIRN,10.217.68.71,FS750T2, , Pirnihall Main Cab, e0-91-f5-1f-74-16
+=======
+Preston Street Primary School,PRES,10.220.16.70,FS726T, Preston St PS, Main Cab 1, 00-24-b2-5e-fd-bc
+Preston Street Primary School,PRES,10.220.16.71,FS726T, Preston St PS, Main Cab 2, 00-24-b2-5e-fd-b3
+Preston Street Primary School,PRES,10.220.16.72,FS726T, Preston St PS, Main Cab 3, 00-24-b2-5e-fd-c1
+=======
+Prestonfield Primary School,PREF,10.220.20.70,FS726T, Prestonfield PS, Main Cab, 00-24-b2-5e-fc-da
+Prestonfield Primary School,PREF,10.220.20.71,FS726T, Prestonfield PS, Main Cab, 00-24-b2-5e-fd-c6
+=======
+Queensferry Primary School,QUEE,10.218.36.70,GS724T,Unknown,Unknown,Unknown
+Queensferry Primary School,QUEE,10.218.36.71,FS726T, Queensferry PS 2, Main Cab 1_2, 00-24-b2-5e-fd-b4
+Queensferry Primary School,QUEE,10.218.36.72,FS726T, Queensferry PS 3, Cab 2_2, 00-24-b2-5e-fd-74
+Queensferry Primary School,QUEE,10.218.36.73,FS726T, Queensferry PS 4, Cab 2_1, 00-24-b2-5e-fd-73
+Queensferry Primary School,QUEE,10.218.36.74,FS726T, Queensferry PS 5, Nursery, 00-24-b2-5e-fd-13
+=======
+Ratho Primary School,RATH,10.202.60.70,FS726T, Ratho PS, Main Cab 1_1, 00-24-b2-5e-fd-14
+Ratho Primary School,RATH,10.202.60.71,FS726T, Ratho PS, Main Cab 1_2, 00-24-b2-5e-fc-dc
+Ratho Primary School,RATH,10.202.60.72,FS726T, Ratho PS, Nursery, 00-24-b2-5e-fc-db
+=======
+Roseburn Primary School,ROSE,10.201.36.70,FS726T, Roseburn Primary 1, Roseburn Primary 1, 00-14-6c-eb-a4-b0
+Roseburn Primary School,ROSE,10.201.36.71,FS726T, Roseburn Primary 2, Roseburn Primary 2, 00-18-4d-d3-a3-64
+=======
+Royal Mile Primary School,ROYM,10.254.24.70,GS724T,Unknown,Unknown,Unknown
+Royal Mile Primary School,ROYM,10.254.24.71,FS726T, Royal Mile PS, Main Cab 1_2, 00-24-b2-5e-fd-72
+Royal Mile Primary School,ROYM,10.254.24.72,FS726T, Royal Mile PS, Main Cab 1_3, 00-24-b2-5e-fd-70
+Royal Mile Primary School,ROYM,10.254.24.73,FS726T, Royal Mile PS, Nursery, 00-24-b2-5e-fd-78
+=======
+=======
+Sciennes Primary School,SCIE,10.220.24.70,FS750T2, sciennes primary, sciennes, 84-1b-5e-91-81-60
+Sciennes Primary School,SCIE,10.220.24.71,FS726T, Sciennes PS, Main Cab 1_2, 00-24-b2-5e-fd-b6
+Sciennes Primary School,SCIE,10.220.24.72,FS750T2, Sciennes PS, ICT Suite, e0-91-f5-20-f3-e0
+Sciennes Primary School,SCIE,10.220.24.73,FS726T, Sciennes_Annexe_01, Sciennes Annexe, 00-24-b2-5e-fd-c0
+=======
+Sighthill Primary School,SIGH,10.203.60.70,FS750T2,, sighthil, 4c-60-de-65-a0-d9
+Sighthill Primary School,SIGH,10.203.60.71,FS726T, , Sighthill Primary 2, 00-18-4d-2d-20-90
+=======
+South Morningside Primary School,SOUT,10.212.16.70,FS750T2,, Sth Morningside PS 1, 00-22-3f-de-09-a8
+South Morningside Primary School,SOUT,10.212.16.71,FS750T2, Sth Morningside PS, Sth Morningside PS 2, 00-14-6c-c3-a2-3f
+South Morningside Primary School,SOUT,10.212.16.72,FS726T, Sth Morningside PS 2, Janitors House, 00-1f-33-ff-62-62
+=======
+St Catherine's RC Primary School,STCA,10.211.48.70,FS726T, , St Catherine"s RC1-1, 00-14-6c-ea-c1-3e
+St Catherine's RC Primary School,STCA,10.211.48.71,FS726T, , St Catherine"s RC1-2, 00-14-6c-ea-c1-3f
+=======
+St Cuthbert's RC Primary School,STCU,10.252.12.70,FS726T, St Cuthberts Gb Sw, Main Cab 1_1, 00-18-4d-30-28-a4
+St Cuthbert's RC Primary School,STCU,10.252.12.71,FS750T2, St Cuthberts, Main Cab 1_2, 00-1e-2a-d4-ea-53
+St Cuthbert's RC Primary School,STCU,10.252.12.72,FS726T, St Cuthberts , Language Block 1, 00-14-6c-eb-a5-36
+=======
+St David's RC Primary School,STDA,10.217.72.70,FS726T, , St. Davids RC PS 1, 00-14-6c-eb-a5-37
+St David's RC Primary School,STDA,10.217.72.71,FS726T, , St. Davids RC PS 2, 00-14-6c-eb-a5-22
+St David's RC Primary School,STDA,10.217.72.73,FS750T2, ST Davids RC , Annexe, 04-a1-51-6d-68-12
+=======
+St Francis' RC Primary School,STFR,10.225.32.70,Unknown,Unknown,Unknown,Unknown
+St Francis' RC Primary School,STFR,10.225.32.71,FS750T2, SF_Ground_01, SF Ground Cab, 00-1e-2a-37-b2-48
+St Francis' RC Primary School,STFR,10.225.32.72,FS750T2, SF_Ground_01 , SF Ground Cab IT_HUB, 10-0d-7f-bd-90-86
+St Francis' RC Primary School,STFR,10.225.32.73,FS750T2, SF_Ground_03, SF Ground Cab, 00-1e-2a-39-bd-b5
+St Francis' RC Primary School,STFR,10.225.32.74,FS750T2, SF_First_01, SF First Floor Cab, 00-1e-2a-39-bd-f7
+St Francis' RC Primary School,STFR,10.225.32.75,FS750T2, SF_First_02, SF First Floor Cab, 00-1e-2a-3c-1b-02
+St Francis' RC Primary School,STFR,10.225.32.76,FS750T2, SF_Second_01, SF Second Fl CaB, 00-1e-2a-39-bd-b6
+=======
+St John Vianney Primary School,STJV,10.211.52.70,FS726T, , St John Vianney 1, 00-14-6c-37-a1-f5
+St John Vianney Primary School,STJV,10.211.52.71,FS726T, , St John Vianney 2, 00-14-6c-e6-fc-fa
+St John Vianney Primary School,STJV,10.211.52.72,FS726T, , St John Vianney 3, 00-14-6c-e6-fc-fd
+=======
+St John's RC Primary School,STJN,10.226.40.70,GS724T,Unknown,Unknown,Unknown
+St John's RC Primary School,STJN,10.226.40.71,FS726T, St John's RCPS, Main Can 1_2, 00-18-4d-2e-21-10
+St John's RC Primary School,STJN,10.226.40.72,FS726T, St John's RCPS, Nursery Cab 3_1, 00-18-4d-2e-24-ca
+St John's RC Primary School,STJN,10.226.40.73,FS726T, St John's RCPS, ICT Suite Cab 3, 00-18-4d-2d-20-7d
+=======
+St Joseph's RC Primary School,STJS,10.252.16.70,FS726T, , St Joseph"s 1-1, 00-14-6c-eb-a5-0f
+St Joseph's RC Primary School,STJS,10.252.16.71,FS726T, , St Joseph"s 1-2, 00-14-6c-eb-a5-0a
+St Joseph's RC Primary School,STJS,10.252.16.72,FS726T, EH603779, Main Cab, 00-14-6c-ea-c1-7f
+St Joseph's RC Primary School,STJS,10.252.16.73,FS726T, EH603780, Serves Broomhouse, 00-14-6c-ea-c1-46
+=======
+St Margaret's RC Primary School,STMG,10.218.44.70,FS726T, , St Margaret"sRCPS1-1, 00-14-6c-ea-c1-3c
+St Margaret's RC Primary School,STMG,10.218.44.71,FS726T, , St Margaret"sRCPS1-2, 00-14-6c-ea-c1-42
+=======
+St Mark's RC Primary School,STMA,10.209.24.70,FS750T2, , St Marks RC PS, 00-14-6c-c3-a1-97
+=======
+St Mary's RC Primary School (Leith),STMY,10.227.32.70,FS726T, St Marys RC Leith, Main Cab, 00-24-b2-5e-fd-3a
+St Mary's RC Primary School (Leith),STMY,10.227.32.71,FS726T, St Marys RC Leith, Main Cab, 00-24-b2-5e-fc-9a
+St Mary's RC Primary School (Leith),STMY,10.227.32.72,FS726T, St Marys RC Leith, Main Cab, 00-24-b2-5e-fd-32
+St Mary's RC Primary School (Leith),STMY,10.227.32.73,FS750T2, St Mary's  PS Leith, Main Comms Cab, 10-0d-7f-bd-94-6e
+=======
+St Mary's RC Primary School,STMS,10.254.28.70,FS726T, St Mary's ELS, Main Cab, 00-18-4d-2d-20-79
+St Mary's RC Primary School,STMS,10.254.28.71,FS750T2, St Mary's ELS, Main Cab, e0-91-f5-95-8f-26
+=======
+St Ninian's RC Primary School,STNI,10.225.36.70,FS750T2,, St. Ninians RC PS 1, e0-91-f5-95-8f-51
+St Ninian's RC Primary School,STNI,10.225.36.71,FS726T, , St. Ninians RC PS 2, 00-14-6c-ec-a9-31
+St Ninian's RC Primary School,STNI,10.225.36.72,FS726T, , St. Ninians RC PS 3, 00-14-6c-eb-a5-2d
+St Ninian's RC Primary School,STNI,10.225.36.73,FS726T, St Ninians RC PS, Comp Suite, 00-18-4d-3a-62-75
+=======
+St Peter's RC Primary School,STPE,10.212.20.70,FS726T, St Peter's RCPS, Main Cab 1_1, 00-24-b2-5e-fd-35
+St Peter's RC Primary School,STPE,10.212.20.71,FS750T2, St_Peters_RCPS, Main Cab1_2, 00-22-3f-de-09-be
+=======
+Stenhouse Primary School,STEN,10.252.20.70,FS726T, Stenhouse PS, Main Cab 1_1, 00-18-4d-2e-21-42
+Stenhouse Primary School,STEN,10.252.20.71,FS726T, Stenhouse PS, Main Cab 1_2, 00-14-6c-eb-a5-39
+Stenhouse Primary School,STEN,10.252.20.72,FS726T, Stenhouse PS, Cab 2_1, 00-18-4d-2e-21-0b
+=======
+Stockbridge Primary School,STOC,10.217.36.70,FS750T2, , Stockbridge PS 1, c0-3f-0e-43-b1-b5
+Stockbridge Primary School,STOC,10.217.36.72,FS726T, stockbridge PS, BOOK STORE , 00-14-6c-eb-a5-5a
+=======
+The Royal High Primary School,ROYP,10.226.36.70,FS726T, RoyalPS_1-1, Royal High PS, 00-14-6c-eb-a4-ec
+The Royal High Primary School,ROYP,10.226.36.71,FS726T, RoyalPS_1-2, Royal Hign PS, 30-46-9a-04-f4-a6
+The Royal High Primary School,ROYP,10.226.36.72,FS750T2, RoyalPS_1-3, Royal High PS, 00-22-3f-ea-b1-42
+The Royal High Primary School,ROYP,10.226.36.73,FS726T, RoyalPS_2-1, Nursery, 30-46-9a-04-f4-a2
+=======
+Tollcross Primary School,TOLL,10.219.20.70,FS726T, , Tollcross PS 1-1, 00-14-6c-eb-a5-0c
+Tollcross Primary School,TOLL,10.219.20.71,FS726T, , Tollcross PS 1-2, 00-14-6c-ea-c1-45
+Tollcross Primary School,TOLL,10.219.20.72,FS726T, tollcross prim ict , , 00-18-4d-2d-20-96
+=======
+Towerbank Primary School,TOWE,10.226.44.70,FS726T, Towerbank PS1, Main Cab, 00-24-b2-5e-fd-0d
+Towerbank Primary School,TOWE,10.226.44.71,FS726T, Towerbank PS2, Towerbank PS CAB , 00-14-6c-ec-a9-84
+Towerbank Primary School,TOWE,10.226.44.72,FS726T, Towerbank PS3, Towerbank PS CAB, 00-14-6c-37-a3-f5
+Towerbank Primary School,TOWE,10.226.44.73,FS726T, Towerbank PS4, Towerbank PS CAB, 00-18-4d-3a-60-a7
+Towerbank Primary School,TOWE,10.226.44.75,FS726T, Towerbank PS, TU , 00-14-6c-ea-c1-32
+Towerbank Primary School,TOWE,10.226.44.76,FS750T2, Towerbank ps cab3, nursary comm cpbrd, 10-0d-7f-b7-71-fe
+=======
+Trinity Primary School,TRIN,10.227.36.70,GS724T,Unknown,Unknown,Unknown
+Trinity Primary School,TRIN,10.227.36.71,FS750T2, Trinity PS, Main Cab, 10-0d-7f-bd-94-a6
+Trinity Primary School,TRIN,10.227.36.72,FS726T, Trinity PS, Cab2 2_1, 00-18-4d-2e-21-0d
+Trinity Primary School,TRIN,10.227.36.73,FS726T, Trinity PS, Cab2 2_2, 00-18-4d-2e-21-db
+Trinity Primary School,TRIN,10.227.36.74,GS724T,Unknown,Unknown,Unknown
+=======
+Victoria Primary School,VICT,10.228.20.70,FS750T2,, Main Cab, 00-22-3f-de-0a-9d
+=======
+Wardie Primary School,WARD,10.228.24.70,GS724T,Unknown,Unknown,Unknown
+Wardie Primary School,WARD,10.228.24.71,FS750T2, Wardie PS, Main Cab 1_2, 00-1b-2f-c2-e2-8e
+Wardie Primary School,WARD,10.228.24.72,FS726T, Wardie PS, Annexe 1_1, 00-24-b2-5e-fc-df
+Wardie Primary School,WARD,10.228.24.73,FS726T, Wardie PS, Annexe 1_2, 00-1f-33-ff-63-ee
+Wardie Primary School,WARD,10.228.24.74,FS726T, wardie ps, CAB1 extension, 00-18-4d-2e-21-fb
+=======
+Westburn Primary School,WEST,10.203.64.70,FS726T, , Westburn PS 1-1, 00-14-6c-eb-a4-98
+Westburn Primary School,WEST,10.203.64.71,FS726T, , Westburn PS 1-2, 00-14-6c-eb-a4-a7
+=======
+Balgreen Nursery School,BALN,10.201.8.70,FS726T, Balgreen Nursery, Main Cab, 00-24-b2-5e-fc-d8
+=======
+Calderglen Nursery School,CALD,10.203.20.70,FS726T, Calderglen Nursery, Main Cab, 00-24-b2-5e-fd-38
+=======
+Cameron House Nursery School,CAME,10.220.4.70,FS726T, , Cameron House NS, 00-14-6c-eb-a4-f8
+=======
+Cowgate Under 5's Centre,COWG,10.253.12.70,FS726T, Cowgate Under 5's, Main Cab, 00-24-b2-5e-fd-c4
+=======
+Grassmarket Nursery School,GRAS,10.219.8.70,FS726T, Grassmarket Nursery, Main Cab, 00-18-4d-2d-1b-4e
+=======
+Greengables Nursery School,GREE,10.226.8.70,FS726T, , Greengables NS, 00-18-4d-2e-25-cb
+=======
+=======
+Hope Cottage Nursery School,HOPE,10.220.32.70,FS726T, Hope Cottage Nursery, Main Cab, 00-24-b2-5e-fc-ef
+=======
+Kirkliston Nursery School,KIRN,10.202.24.70,FS726T, Kirkliston Nursery, Main Cab, 00-24-b2-5e-fc-e9
+=======
+Liberton Nursery School,LIBN,10.211.16.70,FS726T, , Liberton NS, 00-18-4d-2e-24-da
+=======
+Lochrin Nursery School,LOCH,10.219.12.70,FS726T, Lochrin Nursery, Main Cab, 00-24-b2-5e-fd-aa
+=======
+=======
+St Leonard's Nursery School,STLE,10.220.12.70,FS726T, St Leonards Nursery, Main Cab, 00-24-b2-5e-fd-a8
+=======
+Stanwell Nursery School,STAN,10.227.8.70,FS726T, Stanwell Nursery, Main Cab, 00-24-b2-5e-fd-1f
+=======
+The Spinney Lane Nursery School,SPIN,10.211.20.70,FS726T, , Spinney Lane NS, 00-18-4d-2e-21-61
+=======
+Tynecastle Nursery School,TYNN,10.201.12.70,FS726T, Tynecastle Nursery, Main Cab, 00-24-b2-5e-fc-dd
+=======
+=======
+Balerno Commmunity High School,BAL,10.203.4.70,GS724T,Unknown,Unknown,Unknown
+Balerno Commmunity High School,BAL,10.203.4.71,FS750T2, Balerno_HS_Cab 1-1, ICT, c0-3f-0e-44-95-8c
+Balerno Commmunity High School,BAL,10.203.4.72,FS726T, Balerno HS CAB 1_2, ICT, 00-24-b2-5e-fd-b8
+Balerno Commmunity High School,BAL,10.203.4.73,FS726T, Balerno HS CAB 1-3, ICT, 00-14-6c-ea-c1-39
+Balerno Commmunity High School,BAL,10.203.4.74,FS750T2, Balerno HS, Science Cab 3/1, 00-22-3f-de-0a-b3
+Balerno Commmunity High School,BAL,10.203.4.75,FS726T, Balerno HS CAB 3-2, Science, 00-14-6c-ea-c1-20
+Balerno Commmunity High School,BAL,10.203.4.76,FS750T2, Balerno_HS Cab_2-1, Business Studies, 00-22-3f-de-09-cd
+Balerno Commmunity High School,BAL,10.203.4.77,FS750T2, Balerno_HS Cab_2-2, Business Studies, 00-22-3f-ea-b0-4f
+Balerno Commmunity High School,BAL,10.203.4.78,FS750T2,,,
+Balerno Commmunity High School,BAL,10.203.4.79,FS726T, Balerno HS CAB 1_2.1, ICT, 00-24-b2-5e-fd-af
+=======
+Boroughmuir High School,BOR,10.219.4.70,FS726T, Main Cab, Boroughmuir HS GB SW, 00-18-4d-30-28-d0
+Boroughmuir High School,BOR,10.219.4.71,FS726T, Main Cab, Boroughmuir HS, 00-24-b2-5e-fd-b5
+Boroughmuir High School,BOR,10.219.4.72,FS750T2,,,
+Boroughmuir High School,BOR,10.219.4.73,FS726T, Main Cab, Boroughmuir HS, 00-24-b2-5e-fd-67
+Boroughmuir High School,BOR,10.219.4.74,GS724T,Unknown,Unknown,Unknown
+Boroughmuir High School,BOR,10.219.4.75,FS750T2,, Boroughmuir HS, c0-3f-0e-44-95-97
+Boroughmuir High School,BOR,10.219.4.76,FS750T2,, Boroughmuir HS, c0-3f-0e-44-95-fc
+Boroughmuir High School,BOR,10.219.4.77,FS750T2, 2nd Floor Cab, Boroughmuir HS 3-1, 00-22-3f-de-0a-6a
+Boroughmuir High School,BOR,10.219.4.78,FS750T2, 2nd Floor Cab, Boroughmuir HS 3-2, 00-22-3f-ea-b2-58
+Boroughmuir High School,BOR,10.219.4.79,FS726T, HE Outbuilding, Boroughmuir HS HE, 00-14-6c-ea-c1-44
+Boroughmuir High School,BOR,10.219.4.80,FS726T,, Boroughmuir HS , 00-14-6c-ea-c1-83
+Boroughmuir High School,BOR,10.219.4.81,FS750T2, Boroughmuir High, cleaners cbd gr fl, 10-0d-7f-bd-90-e6
+Boroughmuir High School,BOR,10.219.4.82,FS750T2,, cleaners cpb 1st fl, 84-1b-5e-91-52-a9
+=======
+Broughton High School,BRO,10.217.4.70,GS724T,Unknown,Unknown,Unknown
+Broughton High School,BRO,10.217.4.71,FS750T2, BRTN_CAB-A_02, CAB_A_GROUND_FLOOR, 00-1e-2a-bc-15-61
+Broughton High School,BRO,10.217.4.72,FS750T2, BRTN_CAB_A_03, CAB_A_GROUND_FLOOR, 00-1e-2a-48-73-bf
+Broughton High School,BRO,10.217.4.73,FS750T2, BRTN_CAB_A_04, CAB_A_GROUND_FLOOR, 00-1e-2a-bc-15-89
+Broughton High School,BRO,10.217.4.74,FS750T2, BRTN_CAB_A_05, CAB_A_GROUND_FLOOR, 00-1e-2a-48-73-ba
+Broughton High School,BRO,10.217.4.75,FS750T2,, CAB_A_GROUND_FLOOR, 00-1e-2a-48-73-bb
+Broughton High School,BRO,10.217.4.76,FS750T2, BRTN_CAB_C_01, CAB_C_GROUND_FLOOR, 00-1e-2a-48-73-f6
+Broughton High School,BRO,10.217.4.77,FS750T2, BRTN_CAB_C_02, CAB_C_GROUND_FLOOR, 00-1e-2a-48-73-bc
+Broughton High School,BRO,10.217.4.78,FS750T2, BRTN_CAB_C_03, CAB_C_GROUND_FLOOR, 00-1e-2a-bc-15-64
+Broughton High School,BRO,10.217.4.79,FS750T2, BRTN_CAB_C_04, CAB_C_GROUND_FLOOR, 00-1e-2a-48-73-be
+Broughton High School,BRO,10.217.4.80,FS750T2, BRTN_CAB_B_01, CAB_B_FIRST_FLOOR, 74-44-01-d5-17-8b
+Broughton High School,BRO,10.217.4.81,FS750T2, BRTN_CAB_B_02, CAB_B_FIRST_FLOOR, 00-1e-2a-bc-15-42
+Broughton High School,BRO,10.217.4.82,FS750T2, BRTN_CAB_B_03, CAB_B_FIRST_FLOOR, e0-46-9a-2a-04-e8
+Broughton High School,BRO,10.217.4.83,FS750T2,, CAB_B_FIRST_FLOOR, 00-1e-2a-bc-15-fb
+Broughton High School,BRO,10.217.4.84,FS750T2,, CAB_D_FIRST_FLOOR, e0-46-9a-2a-02-fa
+Broughton High School,BRO,10.217.4.85,FS750T2, BRTN_CAB_D_02, CAB_D_FIRST_FLOOR, e0-46-9a-2a-02-d4
+Broughton High School,BRO,10.217.4.87,FS750T2, BRTN_CAB_D_04, CAB_D_FIRST_FLOOR, e0-46-9a-2a-04-3d
+Broughton High School,BRO,10.217.4.88,FS750T2, BRTN_CAB_D_05, CAB_D_FIRST_FLOOR, 00-1e-2a-48-c5-ca
+=======
+Castlebrae Community High School,CAS,10.225.4.70,FS726T, , Castlebrae HS Gb Sw, 00-14-6c-e4-ad-0f
+Castlebrae Community High School,CAS,10.225.4.71,FS750T2, Castlebrae HS, Com Cab English Dept, 10-0d-7f-bd-90-fe
+Castlebrae Community High School,CAS,10.225.4.72,FS750T2, CAB 1 - 2nd From Top, Castlebrae HS C1-1, 00-14-6c-31-f6-b7
+Castlebrae Community High School,CAS,10.225.4.73,FS750T2, , Castlebrae HS C1-2, 00-14-6c-88-0f-10
+Castlebrae Community High School,CAS,10.225.4.74,FS750T2, Castlebrae, Castlebrae HS C2-1, 00-22-3f-de-09-bd
+Castlebrae Community High School,CAS,10.225.4.75,FS726T, , Castlebrae HS C2-2, 00-14-6c-ea-ae-73
+Castlebrae Community High School,CAS,10.225.4.76,FS726T, , Castlebrae HS C1-4, 00-1b-2f-ad-d1-5c
+Castlebrae Community High School,CAS,10.225.4.77,FS726T, , Castlebrae HS Admin3, 00-1b-2f-ad-d1-4a
+=======
+=======
+Craigroyston Community High School,CRR,10.254.4.70,FS726T, Craigroyston_A_01, Cab A, 00-22-3f-9e-92-c2
+Craigroyston Community High School,CRR,10.254.4.71,FS750T2, Craigroyston_A_02, Cab A, 00-1e-2a-d4-e9-7a
+Craigroyston Community High School,CRR,10.254.4.72,FS750T2, Craigroyston_A_02, Cab A, 00-1e-2a-d4-e9-55
+Craigroyston Community High School,CRR,10.254.4.73,FS750T2, Craigroyston_B_05, Cab B, 00-1e-2a-d4-e8-ac
+Craigroyston Community High School,CRR,10.254.4.74,FS750T2, Craigroyston_B_06, Cab B, 00-1e-2a-d4-e8-ab
+Craigroyston Community High School,CRR,10.254.4.75,FS750T2, Craigroyston_C_01, Cab C, 00-1e-2a-d4-e8-58
+Craigroyston Community High School,CRR,10.254.4.76,FS750T2, Craigroyston_C_02, Cab C, 00-1e-2a-d4-e8-59
+Craigroyston Community High School,CRR,10.254.4.77,FS750T2, Craigroyston_C_03, Cab C, 00-1e-2a-d4-e8-31
+Craigroyston Community High School,CRR,10.254.4.78,FS750T2, Craigroyston_C_04, Cab C, 00-1e-2a-d4-e8-33
+Craigroyston Community High School,CRR,10.254.4.79,FS750T2, Craigroyston_B_01, Cab B, 00-1e-2a-d4-e9-e6
+Craigroyston Community High School,CRR,10.254.4.80,FS750T2, Craigroyston_B_02, Cab B, 00-1e-2a-d4-e9-e7
+Craigroyston Community High School,CRR,10.254.4.81,FS750T2, Craigroyston_B_03, Cab B, 00-1e-2a-d4-e8-c6
+Craigroyston Community High School,CRR,10.254.4.82,FS750T2, Craigroyston_B_04, Cab B, 00-1e-2a-d4-e8-c7
+Craigroyston Community High School,CRR,10.254.4.83,FS750T2, Craigroyston high, sub comms room, 10-0d-7f-bd-90-96
+Craigroyston Community High School,CRR,10.254.4.84,FS750T2, Craigroyston_C_06, Cab C, 00-1e-2a-d4-e8-ee
+Craigroyston Community High School,CRR,10.254.4.85,FS750T2, Craigroyston_B_07, Cab B, 00-1e-2a-d4-e8-26
+=======
+Currie Community High School,CUR,10.203.8.70,GS724T,Unknown,Unknown,Unknown
+Currie Community High School,CUR,10.203.8.71,FS750T2,, Main Cab 2, 00-22-3f-de-09-fe
+Currie Community High School,CUR,10.203.8.72,FS750T2,, Main Cab 3, 00-18-4d-78-58-23
+Currie Community High School,CUR,10.203.8.73,FS750T2,, Main Cab 4, 00-22-3f-de-09-8a
+Currie Community High School,CUR,10.203.8.74,FS750T2, Currie HS, Main Cab 5, 00-22-3f-de-0a-b7
+Currie Community High School,CUR,10.203.8.75,FS726T, Currie HS, Main Cab 6, 00-14-6c-ea-c1-7b
+Currie Community High School,CUR,10.203.8.76,FS750T2, Currie HS, Business Studies 1, 00-22-3f-ea-b5-38
+Currie Community High School,CUR,10.203.8.77,FS750T2, Currie HS, Business Studies 2, c0-3f-0e-44-95-a4
+Currie Community High School,CUR,10.203.8.78,FS750T2, Currie HS, Business Studies 3, c0-3f-0e-44-95-fd
+Currie Community High School,CUR,10.203.8.79,FS750T2, Currie HS, Business Studies 4, 00-14-6c-c3-9f-7a
+Currie Community High School,CUR,10.203.8.80,FS726T, Currie HS, PE, 00-14-6c-ea-c1-81
+=======
+Drummond Community High School,DRU,10.254.8.70,FS726T, , Drummond HS Gb Sw, 00-14-6c-e5-eb-82
+Drummond Community High School,DRU,10.254.8.71,FS750T2, Drummond HS, Main Cab 1_2, 00-22-3f-e1-67-27
+Drummond Community High School,DRU,10.254.8.72,FS750T2, , Main_Cab 1_3, 00-22-3f-e1-67-26
+Drummond Community High School,DRU,10.254.8.73,FS726T, , Drummond HS MC 1_4, 00-14-6c-eb-a4-f7
+Drummond Community High School,DRU,10.254.8.74,FS750T2, , Drummond HS C-3, c0-3f-0e-44-95-a5
+Drummond Community High School,DRU,10.254.8.75,FS750T2, Drummond HS, Cab C, 10-0d-7f-bd-90-de
+Drummond Community High School,DRU,10.254.8.76,FS750T2, , Drummond HS A-1, c0-3f-0e-44-95-e5
+Drummond Community High School,DRU,10.254.8.77,FS726T, , DRUMMOND HS B-1, 00-18-4d-2e-23-0b
+Drummond Community High School,DRU,10.254.8.78,FS750T2, , DRUMMOND HS B-3, 00-22-3f-ea-b5-25
+Drummond Community High School,DRU,10.254.8.79,FS726T, , Drummond HS C-2, 00-18-4d-2d-1f-86
+Drummond Community High School,DRU,10.254.8.80,FS726T, , DRUMMOND HS B-2, 00-18-4d-2e-22-81
+=======
+Firrhill High School,FIR,10.209.4.70,FS726T, , Firrhill HS GB SW, 00-14-6c-e5-eb-ce
+Firrhill High School,FIR,10.209.4.71,FS750T2, , Firrhill HS Cab1-1, 00-14-6c-31-f6-b8
+Firrhill High School,FIR,10.209.4.72,FS750T2, , Firhill HS - Cab 1-2, 00-22-3f-de-09-ac
+Firrhill High School,FIR,10.209.4.73,FS750T2, , Firhill HS - Cab 1-3, 00-22-3f-de-09-63
+Firrhill High School,FIR,10.209.4.74,FS750T2, , Firhill HS - Cab 1-4, c0-3f-0e-44-95-6f
+Firrhill High School,FIR,10.209.4.75,FS750T2, , Firhill HS - Cab 1-5, c0-3f-0e-44-95-8d
+Firrhill High School,FIR,10.209.4.76,FS726T, , Firrhill HS Cab PE, 00-14-6c-eb-a4-bf
+Firrhill High School,FIR,10.209.4.77,FS750T2, , Firrhill HS Cab SC, 00-14-6c-c3-9e-a9
+Firrhill High School,FIR,10.209.4.79,FS750T2, Room 0/036, Tower hub, c0-3f-0e-44-95-a7
+Firrhill High School,FIR,10.209.4.80,FS726T, , Firrhill HS Cab TB2, 00-14-6c-eb-a4-eb
+Firrhill High School,FIR,10.209.4.88,FS726T, Firhill Temp, Cab 3, 00-14-6c-eb-a6-08
+=======
+Forrester High School,FOR,10.202.12.70,GS724T,Unknown,Unknown,Unknown
+Forrester High School,FOR,10.202.12.71,GS724T,Unknown,Unknown,Unknown
+Forrester High School,FOR,10.202.12.73,FS750T2, Forrester_F1_01, Cab F1, 00-22-3f-e1-dd-57
+Forrester High School,FOR,10.202.12.74,FS750T2, Forrester_F1_02, Cab F1, 00-22-3f-de-0a-9e
+Forrester High School,FOR,10.202.12.75,FS750T2, Forrester_F1_03, Cab F1, 00-22-3f-e1-dd-54
+Forrester High School,FOR,10.202.12.76,FS750T2, Forrester_F1_04, Cab F1, 00-22-3f-de-0a-69
+Forrester High School,FOR,10.202.12.77,FS750T2, Forrester_F1_05, Cab F1, 00-22-3f-e1-df-10
+Forrester High School,FOR,10.202.12.78,FS750T2, Forrester_F1_06, Cab F1, 00-22-3f-e1-df-11
+Forrester High School,FOR,10.202.12.79,FS750T2, Forrester_F1_07, Cab_F1, 00-22-3f-e1-67-5f
+Forrester High School,FOR,10.202.12.80,FS750T2, Forrester_F1_08, Cab_F1, 00-22-3f-de-0a-ac
+Forrester High School,FOR,10.202.12.81,FS750T2, Forrester_F2_01, Cab F2, 00-22-3f-e1-df-7c
+Forrester High School,FOR,10.202.12.82,FS750T2, Forrester_F2_02, Cab F2, 00-22-3f-e1-de-74
+Forrester High School,FOR,10.202.12.83,FS750T2, Forrester_F2_03, Cab F2, 00-22-3f-e1-df-39
+Forrester High School,FOR,10.202.12.84,FS750T2, Forrester_F2_04, Cab F2, 00-22-3f-e1-de-ae
+Forrester High School,FOR,10.202.12.85,FS750T2, Forrester_F3_01, Cab F3, 00-22-3f-e1-df-63
+Forrester High School,FOR,10.202.12.86,FS750T2, Forrester_CPE_2, CPE_2, 00-22-3f-e1-de-75
+=======
+Gracemount High School,GRA,10.211.4.70,GS724T,Unknown,Unknown,Unknown
+Gracemount High School,GRA,10.211.4.71,FS750T2, Gracemount HS1, 2nd Sw , 00-14-6c-8c-c2-e0
+Gracemount High School,GRA,10.211.4.72,FS750T2, Gracemount HS2, 3rd SW, 00-14-6c-8c-c2-e6
+Gracemount High School,GRA,10.211.4.73,FS750T2, Gracemount HS3, 4th SW, 00-14-6c-83-3b-df
+Gracemount High School,GRA,10.211.4.74,FS750T2, Gracemount HS4, 5th SW, 84-1b-5e-90-ae-7c
+Gracemount High School,GRA,10.211.4.75,FS750T2, Gracemount HS5, 6th SW, 00-22-3f-de-0a-22
+Gracemount High School,GRA,10.211.4.76,FS750T2, Gracemount HS6, 7th SW, 84-1b-5e-90-ae-84
+Gracemount High School,GRA,10.211.4.77,FS750T2, Gracemount HS7, 8th SW, e0-46-9a-2a-04-15
+=======
+Holy Rood High School,HOL,10.225.8.70,FS726T, Holyrood_G_01, Cab G Main, 00-22-3f-9b-da-0f
+Holy Rood High School,HOL,10.225.8.71,FS750T2,, Cab G Main, 00-1e-2a-d4-ea-15
+Holy Rood High School,HOL,10.225.8.72,FS750T2, Holyrood Cab D-1, , 00-1e-2a-d4-e9-1f
+Holy Rood High School,HOL,10.225.8.73,FS750T2, holyrood high, cab d, 10-0d-7f-bd-90-d6
+Holy Rood High School,HOL,10.225.8.74,FS750T2, Holyrood Cab E-1, , 00-1e-2a-d4-e8-c2
+Holy Rood High School,HOL,10.225.8.75,FS750T2, Holyrood Cab A-1, Cab A, 00-1e-2a-d4-ea-17
+Holy Rood High School,HOL,10.225.8.76,FS750T2, Holyrood Cab B-1, Cab B, 00-1e-2a-d4-e8-cf
+Holy Rood High School,HOL,10.225.8.77,FS750T2, Holyrood Cab F-1, , c0-3f-0e-44-95-a8
+Holy Rood High School,HOL,10.225.8.78,FS750T2, Holyrood Cab F-2, , 00-1e-2a-d4-e8-27
+Holy Rood High School,HOL,10.225.8.79,FS750T2, Holyrood Cab F-3, , e0-91-f5-95-8f-25
+Holy Rood High School,HOL,10.225.8.80,FS750T2, Holyrood Cab F - 4, , 00-1e-2a-d4-e8-c1
+Holy Rood High School,HOL,10.225.8.81,FS750T2, Holyrood Cab F - 5, , 00-1e-2a-d4-e8-cd
+Holy Rood High School,HOL,10.225.8.82,FS750T2, Holyrood Cab C-1, , 00-1e-2a-d4-e8-ef
+Holy Rood High School,HOL,10.225.8.83,FS750T2, Holyrood Cab A-2, , 00-1e-2a-d4-e8-cc
+Holy Rood High School,HOL,10.225.8.84,FS750T2, Holyrood High, cabinet g, 28-c6-8e-fd-24-2c
+=======
+James Gillespie's High School,JAM,10.212.4.70,FS750T2,, JGHS Main Cab, e0-46-9a-2a-02-fb
+James Gillespie's High School,JAM,10.212.4.71,FS750T2, JGHS , Main comms Cabinet, e0-91-f5-1f-74-12
+James Gillespie's High School,JAM,10.212.4.72,FS750T2, , JGHS Lauder 2, 00-14-6c-88-0f-14
+James Gillespie's High School,JAM,10.212.4.73,FS750T2, , JGHS Lauder 3, 00-22-3f-de-09-5f
+James Gillespie's High School,JAM,10.212.4.74,FS726T, , JGHS Lauder 4, 00-14-6c-eb-a4-d4
+James Gillespie's High School,JAM,10.212.4.75,FS726T, , JGHS Spylaw 1, 00-18-4d-2e-21-31
+James Gillespie's High School,JAM,10.212.4.76,FS750T2, , JGHS Bruntsfield , 00-14-6c-88-0f-04
+James Gillespie's High School,JAM,10.212.4.77,FS750T2, , JGHS Thirlstane, 00-14-6c-88-0f-27
+James Gillespie's High School,JAM,10.212.4.79,FS726T, , JGHS Rosslyn 2, 00-14-6c-e6-fc-fb
+James Gillespie's High School,JAM,10.212.4.80,FS750T2,, JGHS Warrender 1, 74-44-01-d5-17-bf
+James Gillespie's High School,JAM,10.212.4.81,FS726T, , JGHS Warrander 2, 00-14-6c-e6-fd-00
+James Gillespie's High School,JAM,10.212.4.82,FS726T, , JGHS Spylaw_2, 00-18-4d-34-90-0e
+=======
+Leith Academy,LEI,10.227.4.70,FS726T, , Leith HS Cab1 Gb Sw, 00-18-4d-30-28-80
+Leith Academy,LEI,10.227.4.71,FS750T2, , Main cabinet, e0-91-f5-20-f3-fb
+Leith Academy,LEI,10.227.4.72,FS750T2, , Main Cabinet, 00-14-6c-31-f6-2d
+Leith Academy,LEI,10.227.4.73,FS750T2, , Main Cabinet, 00-14-6c-31-f6-54
+Leith Academy,LEI,10.227.4.74,FS750T2, , Main Cabinet, 00-14-6c-31-f6-4a
+Leith Academy,LEI,10.227.4.75,FS726T, , Leith HS Cab1-5, 00-14-6c-eb-a4-fd
+Leith Academy,LEI,10.227.4.76,FS750T2, , Leith Acad - Cab 2-1, 00-22-3f-de-09-ba
+Leith Academy,LEI,10.227.4.77,FS750T2, , , e0-91-f5-1f-74-1b
+Leith Academy,LEI,10.227.4.78,FS750T2, , Leith Acad Cab 3-1, 00-22-3f-f1-51-4e
+Leith Academy,LEI,10.227.4.79,FS750T2, , Leith Acad Cab 3-2, 00-22-3f-de-09-62
+Leith Academy,LEI,10.227.4.80,FS750T2, , Leith HS Cab 4-1, e0-91-f5-20-f4-3a
+Leith Academy,LEI,10.227.4.81,FS726T, , Leith HS Cab4-2, 00-18-4d-2d-20-74
+=======
+Liberton High School,LIB,10.211.8.70,FS750T2, Liberton HS SW1, Main Cab ports 43-49, c0-3f-0e-44-95-f8
+Liberton High School,LIB,10.211.8.71,FS750T2, , , e0-91-f5-95-90-45
+Liberton High School,LIB,10.211.8.72,FS750T2, , , e0-91-f5-20-f3-a3
+Liberton High School,LIB,10.211.8.73,FS750T2, Liberton HS SW3, Main Cab, e0-91-f5-95-90-40
+Liberton High School,LIB,10.211.8.74,FS750T2, Liberton HS SW5, Main Cab, c0-3f-0e-44-95-c2
+Liberton High School,LIB,10.211.8.75,FS750T2, Liberton HS SW6, Main Cab, c0-3f-0e-44-96-0f
+Liberton High School,LIB,10.211.8.76,FS750T2, Liberton HS SW6, Main Cab, e0-91-f5-95-8e-e3
+Liberton High School,LIB,10.211.8.77,FS726T,, Science Block Cab, 00-18-4d-d2-d2-c0
+Liberton High School,LIB,10.211.8.79,FS726T, Liberton HS SW11, PE Cabinet, 00-18-4d-d2-d2-b3
+Liberton High School,LIB,10.211.8.80,FS726T, Liberton HS SW8, Main Cab, 00-1f-33-ff-64-3a
+Liberton High School,LIB,10.211.8.81,FS750T2, Liberton HS, Science  Cab SW2, e0-91-f5-95-90-4c
+=======
+Portobello High School,POR,10.226.4.70,FS726T, , Portobello HS Gb Sw, 00-18-4d-30-27-96
+Portobello High School,POR,10.226.4.71,FS750T2, portobello high, main comms room, 74-44-01-d8-14-c3
+Portobello High School,POR,10.226.4.72,FS750T2, , PortobelloHS 1-2, c0-3f-0e-44-95-e6
+Portobello High School,POR,10.226.4.73,FS750T2, , , 84-1b-5e-93-49-9f
+Portobello High School,POR,10.226.4.74,FS750T2, , Main comms Room, 74-44-01-d8-14-93
+Portobello High School,POR,10.226.4.75,FS750T2, , Portobello HS 1-5, c0-3f-0e-44-96-07
+Portobello High School,POR,10.226.4.76,FS750T2, 6th Floor , Portobello HS 2-1, c0-3f-0e-44-95-e3
+Portobello High School,POR,10.226.4.77,FS750T2, 6th Floor, Portobello HS 2-2, c0-3f-0e-44-95-e4
+Portobello High School,POR,10.226.4.79,FS750T2, , Portobello HS 3-1, c0-3f-0e-44-95-95
+Portobello High School,POR,10.226.4.80,FS750T2, , Portobello HS Cab 4, 00-22-3f-de-09-ea
+Portobello High School,POR,10.226.4.81,FS726T, , Portobello HS 4-2, 00-18-4d-3a-61-38
+Portobello High School,POR,10.226.4.82,FS750T2, Portobello HS, Next to Janitors , c0-3f-0e-44-95-9b
+Portobello High School,POR,10.226.4.83,FS726T, Portobello HS, Temp Unit, 00-18-4d-d2-d2-bc
+=======
+Queensferry Community High School,QUE,10.218.4.70,FS726T, , QueensferryHS GB Sw, 00-14-6c-e5-eb-8c
+Queensferry Community High School,QUE,10.218.4.71,FS750T2, , QueensferryHS Cab1-1, 00-14-6c-31-f6-af
+Queensferry Community High School,QUE,10.218.4.72,FS750T2, , QueensferryHS Cab1-2, 00-14-6c-31-f7-76
+Queensferry Community High School,QUE,10.218.4.73,FS750T2, , QueensferryHS Cab1-3, c0-3f-0e-44-95-aa
+Queensferry Community High School,QUE,10.218.4.74,FS750T2, , QueensferryHS Cab1-4, 00-14-6c-31-f6-53
+Queensferry Community High School,QUE,10.218.4.75,FS750T2, , QueensferryHS Cab2-1, 00-14-6c-31-f6-c7
+Queensferry Community High School,QUE,10.218.4.76,FS750T2, , QueensferryHS Cab2-2, e0-91-f5-1f-82-58
+=======
+St Augustine's High School,STA,10.202.20.70,GS724T,Unknown,Unknown,Unknown
+St Augustine's High School,STA,10.202.20.71,GS724T,Unknown,Unknown,Unknown
+St Augustine's High School,STA,10.202.20.73,FS750T2, St_Augustine_A1_01, Cab A1, 00-22-3f-e1-dd-7d
+St Augustine's High School,STA,10.202.20.74,FS750T2, St_Augustine_A1_02, Cab A1, 00-22-3f-e1-dd-86
+St Augustine's High School,STA,10.202.20.75,FS750T2, St_Augustine_A1_03, Cab A1, 00-22-3f-e1-dd-72
+St Augustine's High School,STA,10.202.20.76,FS750T2, St_Augustine_A1_04, Cab A1, 00-22-3f-e1-dd-91
+St Augustine's High School,STA,10.202.20.77,FS750T2, St_Augustine_A2_01, Cab A2, 00-22-3f-e1-dd-85
+St Augustine's High School,STA,10.202.20.78,FS750T2, St_Augustine_A2_02, Cab A2, 00-22-3f-e1-dd-7e
+St Augustine's High School,STA,10.202.20.79,FS750T2, St_Augustine_A2_03, Cab A2, 00-22-3f-e1-de-97
+St Augustine's High School,STA,10.202.20.80,FS750T2, St_Augustine_A2_04, Cab A2, 00-22-3f-e1-dd-92
+St Augustine's High School,STA,10.202.20.81,FS750T2, St_Augustine_A2_05, Cab 2, 00-22-3f-e1-de-96
+St Augustine's High School,STA,10.202.20.82,FS750T2, St_Augustine_A2_06, Cab A2, 00-22-3f-e1-de-f5
+St Augustine's High School,STA,10.202.20.83,FS750T2, St_Augustine_A3_01, Cab A3, 00-22-3f-e1-67-25
+St Augustine's High School,STA,10.202.20.84,FS750T2, St_Augustine_A3_02, Cab A3, 00-22-3f-e1-de-d7
+St Augustine's High School,STA,10.202.20.85,FS750T2, St_Augustine_CPE1, CPE_1, 00-22-3f-e1-dd-71
+=======
+=======
+The Royal High School,ROY,10.218.12.70,FS726T, , Royal High HS Gb Sw, 00-14-6c-e5-eb-95
+The Royal High School,ROY,10.218.12.71,FS750T2, , Royal High HS CAB1-1, 00-14-6c-88-0f-2e
+The Royal High School,ROY,10.218.12.72,FS750T2, , Royal High HS CAB1-2, e0-91-f5-95-8f-c6
+The Royal High School,ROY,10.218.12.73,FS750T2, , Royal High HS CAB1-3, 00-14-6c-c3-9f-20
+The Royal High School,ROY,10.218.12.74,FS750T2, , Royal High HS Cab1-4, e0-91-f5-1f-74-37
+The Royal High School,ROY,10.218.12.75,FS750T2, RoyalHigh, library, 04-a1-51-6a-46-e9
+The Royal High School,ROY,10.218.12.76,FS750T2, , Royal High HS CAB1-6, e0-91-f5-95-8f-5b
+The Royal High School,ROY,10.218.12.77,FS750T2, , Royal High HS Cab1-7, e0-91-f5-20-f3-e2
+The Royal High School,ROY,10.218.12.78,FS726T, , Royal High HS CAB1-8, 00-14-6c-e6-fc-c6
+The Royal High School,ROY,10.218.12.79,FS750T2, , Royal High HS Cab3-1, e0-91-f5-1f-73-fd
+The Royal High School,ROY,10.218.12.80,FS750T2, , Royal High HS CAB3-1, e0-91-f5-95-8f-c4
+The Royal High School,ROY,10.218.12.81,FS726T, , Royal High HS CAB3-2, 00-14-6c-eb-a4-ea
+The Royal High School,ROY,10.218.12.82,FS726T, RHS Temp1, Main Cab, 00-14-6c-ea-c1-2f
+The Royal High School,ROY,10.218.12.83,FS726T, RHS Temp2, Main Cab, 00-18-4d-30-28-00
+=======
+Trinity Academy,TRI,10.228.4.70,FS726T, , Trinity Academy GbSw, 00-18-4d-30-28-a7
+Trinity Academy,TRI,10.228.4.71,FS750T2, Trinity Academy A-1, Main  Cab, e0-91-f5-20-f3-fd
+Trinity Academy,TRI,10.228.4.72,FS750T2, Trinity Main CAB - , , c0-3f-0e-44-95-99
+Trinity Academy,TRI,10.228.4.73,FS750T2, , Trinity Academy A-3, 00-18-4d-72-25-81
+Trinity Academy,TRI,10.228.4.74,FS750T2, Trinity High School , Main CAB, c0-3f-0e-44-95-a6
+Trinity Academy,TRI,10.228.4.75,FS726T, Trinity Academy A-4, Trin Acad Main CAB, 00-14-6c-ea-c1-2c
+Trinity Academy,TRI,10.228.4.76,FS750T2, , Trinity Academy A-6, 00-18-4d-78-58-08
+Trinity Academy,TRI,10.228.4.77,FS750T2, Trinity Acad B 1, Cab B 1, e0-91-f5-1f-73-fb
+Trinity Academy,TRI,10.228.4.78,FS726T, , Trinity Academy B-2, 00-18-4d-3a-60-b6
+Trinity Academy,TRI,10.228.4.79,FS726T, Trintiy HS, CAB_C, 00-22-3f-0a-f8-60
+Trinity Academy,TRI,10.228.4.80,FS726T, Trinity Academy A-7, Trin Acad Main CAB, 00-14-6c-ea-c1-2e
+=======
+Tynecastle High School,TYN,10.201.4.70,FS726T, Tynecastle_01, Cab A, 00-22-3f-8b-29-1f
+Tynecastle High School,TYN,10.201.4.71,FS750T2, Tynecastle_02, Cab A, 00-22-3f-e7-e3-61
+Tynecastle High School,TYN,10.201.4.72,FS750T2, Tynecastle_03, Cab A, 00-22-3f-e7-e3-64
+Tynecastle High School,TYN,10.201.4.73,FS750T2, Tynecastle_04, Cab C, 00-22-3f-e7-e3-62
+Tynecastle High School,TYN,10.201.4.74,FS750T2, Tynecastle_05, Cab E, 00-1e-2a-d4-e7-e6
+Tynecastle High School,TYN,10.201.4.75,FS750T2, Tynecastle_06, Cab E, 00-1e-2a-d6-fc-55
+Tynecastle High School,TYN,10.201.4.76,FS750T2, Tynecastle_07, Cab E, 00-22-3f-e7-e3-71
+Tynecastle High School,TYN,10.201.4.77,FS750T2, Tynecastle_08, Cab E, 00-22-3f-e7-e3-69
+Tynecastle High School,TYN,10.201.4.78,FS750T2, Tynecastle_09, Cab D, 00-1e-2a-d4-e7-e1
+Tynecastle High School,TYN,10.201.4.79,FS750T2, Tynecastle_10, Cab D, 00-22-3f-e7-e3-72
+Tynecastle High School,TYN,10.201.4.80,FS750T2, Tynecastle_11, Cab C, 00-22-3f-e6-f8-52
+Tynecastle High School,TYN,10.201.4.81,FS750T2, Tynecastle_12, Cab B, 00-22-3f-e7-e3-68
+Tynecastle High School,TYN,10.201.4.82,FS750T2, Tynecastle_13, Cab F, 00-22-3f-e6-f7-e6
+Tynecastle High School,TYN,10.201.4.83,FS750T2, Tynecastle_14, Cab C, 00-22-3f-e1-67-5d
+Tynecastle High School,TYN,10.201.4.84,FS750T2, Tyncastle High, cabinet c, 10-0d-7f-bd-92-de
+=======
+Wester Hailes Education Centre,WES,10.203.12.70,Unknown,Unknown,Unknown,Unknown
+Wester Hailes Education Centre,WES,10.203.12.71,FS750T2, WHEC, WHEC CAB C-1, 00-22-3f-e1-67-28
+Wester Hailes Education Centre,WES,10.203.12.72,FS750T2, WHEC CABINET, MAIN CAB, 4c-60-de-65-a0-f1
+Wester Hailes Education Centre,WES,10.203.12.74,FS726T, , WHEC CAB C-4, 00-18-4d-2e-21-5f
+Wester Hailes Education Centre,WES,10.203.12.76,FS726T, , WHEC CAB Aa-2, 00-14-6c-e5-eb-85
+Wester Hailes Education Centre,WES,10.203.12.77,FS726T, , WHEC CAB Ab-1, 00-18-4d-2d-1f-a5
+Wester Hailes Education Centre,WES,10.203.12.78,FS726T, , WHEC CAB B-1, 00-18-4d-2e-21-7c
+Wester Hailes Education Centre,WES,10.203.12.81,FS750T2, , WHEC Music Cab E, e0-91-f5-20-f3-ac
+Wester Hailes Education Centre,WES,10.203.12.82,FS750T2, , WHEC CAB Aa-1, e0-91-f5-20-f3-ae
+Wester Hailes Education Centre,WES,10.203.12.83,FS750T2, wester hailes, hails, 4c-60-de-68-bd-d2
+Wester Hailes Education Centre,WES,10.203.12.84,FS750T2, WHEC, Wester Hailes, 4c-60-de-68-bd-f2
+=======
+Braidburn Special School,BRAI,10.209.36.90,Unknown,Unknown,Unknown,Unknown
+=======
+=======
+=======
+Howdenhall School,HOWD,10.211.56.70,FS750T2,, Main Cab, 00-1b-2f-c2-e2-81
+=======
+St Katharine's School,STKA,10.211.68.70,FS750T2, st catherines sp, st cats, 84-1b-5e-93-49-97
+St Katharine's School,STKA,10.211.68.71,GS724T,Unknown,Unknown,Unknown
+=======
+Kaimes School,KAIM,10.211.60.70,FS726T, Kaimes Switch 1, Main Cab, 00-14-6c-ea-c1-2d
+Kaimes School,KAIM,10.211.60.71,FS726T, Kaimes Switch 2, Main Cab, 00-14-6c-eb-a4-fc
+Kaimes School,KAIM,10.211.60.72,FS726T, Kaimes Switch 3, Main Cab, 00-18-4d-2e-24-55
+Kaimes School,KAIM,10.211.60.73,FS726T, Kaimes Switch 4, Library Cab, 00-18-4d-2e-25-55
+Kaimes School,KAIM,10.211.60.74,FS726T, Kaimes Switch 5, Library Cab, 00-18-4d-2e-21-a8
+=======
+Oaklands School,OAKL,10.217.28.70,FS750T2, Oaklands SS, , e0-91-f5-1f-74-15
+Oaklands School,OAKL,10.217.28.71,FS750T2,, ferry road, 10-0d-7f-b2-a7-3d
+=======
+Pilrig Park School,PILR,10.227.40.70,FS726T, Pilrig Park SS, Main Cab, 00-24-b2-5e-fd-bf
+Pilrig Park School,PILR,10.227.40.71,FS750T2, Pilrig Park SS, Main Cab, 00-14-6c-31-f6-28
+=======
+Prospect Bank School,PROS,10.227.44.70,FS750T2,, janitors cpb, 04-a1-51-6a-46-d1
+=======
+Rowanfield School,ROWA,10.217.40.70,FS750T2, Rowanfield SS, Main Cab, 00-22-3f-e1-67-58
+=======
+St Crispin's School,STCR,10.220.28.70,FS750T2, St Crispins, Main Cab, 00-1e-2a-d4-ea-41
+St Crispin's School,STCR,10.220.28.71,FS726T, St Crispins, Hut (Cab 2), 00-24-b2-5e-fd-26
+=======
+=======
+=======
+=======
+=======
+=======
+=======
+Panmuir St. Ann's Special School,CLPA,10.254.40.70,FS750T2, Panmure Special Sc, 1st floor cpbrd, 10-0d-7f-bd-94-66
+Panmuir St. Ann's Special School,CLPA,10.254.40.71,FS750T2, Panmuir Prim School, 1st floor cbrd, 10-0d-7f-bd-95-fe
+Panmuir St. Ann's Special School,CLPA,10.254.40.90,FS750T2,,,
+=======
+CLD South,CLSO,10.254.36.70,FS726T, , South Bridge Cab 1-1, 00-18-4d-2e-21-fa
+=======
+=======
+CLD West,CLWE,10.252.36.70,FS750T2, , Carrickvale Comm Ed, 00-18-4d-6e-a5-30
+=======
+Gorgiemills Special School,GORG,10.201.44.70,FS726T, Gorgie Mills SW1, Main Cab, 00-1b-2f-ad-e0-5e
+Gorgiemills Special School,GORG,10.201.44.71,FS750T2, Gorgie Mills SW2, Main Cab, 00-1b-2f-c2-e3-3c
+Gorgiemills Special School,GORG,10.201.44.72,FS750T2, Switch3 in stack, Main Cab, 84-1b-5e-91-52-91
+Gorgiemills Special School,GORG,10.201.44.73,FS750T2, Gorgie Mills SW4, Main Cab, 00-1b-2f-c2-e3-92
+Gorgiemills Special School,GORG,10.201.44.74,FS750T2, Gorgie Mills SW5, Cab BGround Floor, 00-1b-2f-c2-e3-ab
+Gorgiemills Special School,GORG,10.201.44.75,FS750T2, Gorgile Mills SW6, CAB B Ground Floor, 00-1b-2f-c2-e4-49
+Gorgiemills Special School,GORG,10.201.44.76,FS750T2, Gorgie Mills SW7, CAB B Ground floor, 00-1b-2f-c2-e3-91
+Gorgiemills Special School,GORG,10.201.44.77,FS750T2, Gorgie Mills SW8, CAB B Ground floor, 00-1b-2f-c2-e3-3f
+=======
+Woodlands Special School,WOOD,10.202.72.70,FS726T, Switch 1, Woodlands PS Cab1, 00-1b-2f-ad-df-e0
+Woodlands Special School,WOOD,10.202.72.71,FS750T2, Switch 2, Woodlands PS Cab1, 00-1b-2f-c2-e4-4d
+Woodlands Special School,WOOD,10.202.72.72,FS750T2, Switch3, Woodlands PS Cab1, 00-1b-2f-c2-e3-7d
+Woodlands Special School,WOOD,10.202.72.73,FS750T2, Switch 4, Woodlands PS Cab1, 00-1b-2f-c2-e3-a3
+Woodlands Special School,WOOD,10.202.72.74,FS750T2, Switch 5, Woodlands PS Cab1, 00-1b-2f-c2-e3-7c
+Woodlands Special School,WOOD,10.202.72.75,FS750T2, Switch 6, Woodlands PS Cab1, 00-1b-2f-c2-e3-a7
+Woodlands Special School,WOOD,10.202.72.76,FS750T2, Switch 7, Woodlands PS Cab1, 00-1b-2f-c2-e4-41
+=======
+=======
+Moffat Early Years Centre,MOFF,10.225.12.70,FS726T, Child House Nursery, Main Cab, 00-24-b2-5e-fd-2b
